@@ -1,0 +1,867 @@
+/* ==========================================================================
+   SENIOR BRIDGE PAGE UX STANDARD 2026 (55-75+ AÑOS) — CONTRASTE AAA (#0F172A)
+   Tipografía base >= 18px-22px (line-height: 1.62), Botones táctiles >= 60px,
+   Diseño Mobile-First ultra-rápido para TikTok Ads, Meta Ads y YouTube.
+   ========================================================================== */
+:root {
+  --font-base: 19px;
+  --line-height-base: 1.62;
+  --bg-page: #F8FAFC;
+  --bg-card: #FFFFFF;
+  --bg-subtle: #F1F5F9;
+  --text-main: #0F172A;
+  --text-secondary: #1E293B;
+  --text-muted: #334155;
+  --border-strong: #64748B;
+  --border-focus: #1D4ED8;
+  --primary: #1E3A8A;
+  --primary-hover: #1D4ED8;
+  --accent-green: #15803D;
+  --accent-green-hover: #166534;
+  --accent-green-bg: #DCFCE7;
+  --accent-gold: #B45309;
+  --accent-gold-bg: #FEF3C7;
+  --navy-dark: #0F172A;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+}
+
+html.font-size-normal { --font-base: 18px; }
+html.font-size-large  { --font-base: 20px; }
+html.font-size-xlarge { --font-base: 22px; }
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: var(--font-base);
+  line-height: var(--line-height-base);
+  color: var(--text-main);
+  background-color: var(--bg-page);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Barra Superior de País / Idioma y Tamaño de Letra */
+.top-bar {
+  background-color: #0F172A;
+  color: #FFFFFF;
+  padding: 12px 16px;
+  border-bottom: 3px solid #1E3A8A;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.top-bar-inner {
+  max-width: 980px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.lang-selector-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+}
+
+.lang-btn {
+  min-height: 60px;
+  padding: 10px 14px;
+  font-size: 18px;
+  font-weight: 700;
+  color: #FFFFFF;
+  background-color: #1E293B;
+  border: 2px solid #94A3B8;
+  border-radius: 10px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  text-decoration: none;
+  transition: background-color 0.15s, border-color 0.15s;
+}
+
+.lang-btn:hover,
+.lang-btn:focus-visible {
+  background-color: #334155;
+  border-color: #FFFFFF;
+  outline: 3px solid #93C5FD;
+}
+
+.lang-btn.active {
+  background-color: #1D4ED8;
+  border-color: #FFFFFF;
+  box-shadow: 0 0 0 2px #93C5FD;
+}
+
+.font-controls {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.font-controls-label {
+  font-size: 18px;
+  font-weight: 700;
+  color: #E2E8F0;
+}
+
+.font-btn {
+  min-height: 58px;
+  min-width: 58px;
+  padding: 8px 12px;
+  font-size: 18px;
+  font-weight: 800;
+  color: #0F172A;
+  background-color: #F8FAFC;
+  border: 2px solid #CBD5E1;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.font-btn.active {
+  background-color: #FDE047;
+  border-color: #0F172A;
+}
+
+/* Contenedor Principal Mobile-First */
+.bridge-container {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 20px 16px 72px 16px;
+}
+
+/* Cabecera Hero de Alta Conversión */
+.hero-card {
+  background-color: var(--bg-card);
+  border: 3px solid var(--primary);
+  border-radius: var(--radius-lg);
+  padding: 24px 22px;
+  margin-bottom: 22px;
+  box-shadow: 0 4px 14px rgba(15, 23, 42, 0.06);
+}
+
+.hero-badge {
+  display: inline-block;
+  background-color: #DBEAFE;
+  color: #1E3A8A;
+  border: 2px solid #1E3A8A;
+  border-radius: 8px;
+  padding: 6px 14px;
+  font-size: 18px;
+  font-weight: 800;
+  margin-bottom: 12px;
+}
+
+.hero-title {
+  margin: 0 0 10px 0;
+  font-size: 28px;
+  line-height: 1.28;
+  font-weight: 900;
+  color: var(--text-main);
+}
+
+.hero-subtitle {
+  margin: 0 0 16px 0;
+  font-size: 19px;
+  color: var(--text-secondary);
+  font-weight: 500;
+}
+
+.trust-pills-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 16px;
+}
+
+.trust-pill {
+  background-color: #F1F5F9;
+  border: 2px solid #64748B;
+  color: #0F172A;
+  border-radius: 8px;
+  padding: 6px 12px;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.privacy-banner {
+  background-color: #ECFDF5;
+  border: 2px solid #15803D;
+  color: #064E3B;
+  border-radius: var(--radius-md);
+  padding: 12px 16px;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+/* Tarjeta del Quiz de 4 Preguntas (60 Segundos) */
+.quiz-section-card {
+  background-color: var(--bg-card);
+  border: 2px solid var(--border-strong);
+  border-radius: var(--radius-lg);
+  padding: 26px 22px;
+  margin-bottom: 24px;
+  box-shadow: 0 4px 12px rgba(15, 23, 42, 0.05);
+}
+
+.quiz-progress-bar-wrap {
+  background-color: var(--bg-subtle);
+  border: 2px solid var(--border-strong);
+  border-radius: 999px;
+  height: 22px;
+  overflow: hidden;
+  margin-bottom: 14px;
+}
+
+.quiz-progress-bar-fill {
+  background-color: var(--primary);
+  height: 100%;
+  transition: width 0.25s ease;
+}
+
+.quiz-step-badge {
+  display: inline-block;
+  background-color: #DBEAFE;
+  color: #1E3A8A;
+  border: 2px solid #1E3A8A;
+  border-radius: 8px;
+  padding: 6px 14px;
+  font-size: 18px;
+  font-weight: 800;
+  margin-bottom: 14px;
+}
+
+.quiz-question-title {
+  font-size: 24px;
+  line-height: 1.35;
+  font-weight: 800;
+  margin: 0 0 18px 0;
+  color: var(--text-main);
+}
+
+.quiz-options-list {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.quiz-option-btn {
+  min-height: 64px;
+  padding: 16px 20px;
+  font-size: 19px;
+  font-weight: 700;
+  text-align: left;
+  color: var(--text-main);
+  background-color: #FFFFFF;
+  border: 2px solid var(--border-strong);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  transition: background-color 0.12s, border-color 0.12s;
+}
+
+.quiz-option-btn:hover,
+.quiz-option-btn:focus-visible {
+  background-color: #EFF6FF;
+  border-color: var(--border-focus);
+  outline: 3px solid #93C5FD;
+}
+
+.quiz-option-arrow {
+  font-size: 24px;
+  font-weight: 900;
+  color: var(--primary);
+  flex-shrink: 0;
+}
+
+.quiz-nav-row {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Diagnóstico Personalizado 2026 */
+.diagnosis-card {
+  background-color: #F8FAFC;
+  border: 3px solid var(--primary);
+  border-radius: var(--radius-lg);
+  padding: 24px 22px;
+  margin-bottom: 26px;
+}
+
+.diagnosis-header-badge {
+  display: inline-block;
+  background-color: var(--accent-green-bg);
+  color: #065F46;
+  border: 2px solid var(--accent-green);
+  border-radius: 8px;
+  padding: 6px 14px;
+  font-size: 18px;
+  font-weight: 800;
+  margin-bottom: 12px;
+}
+
+.diagnosis-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 14px;
+  margin: 16px 0 18px 0;
+}
+
+.diag-item-box {
+  background-color: #FFFFFF;
+  border: 2px solid var(--border-strong);
+  border-left: 8px solid var(--primary);
+  border-radius: var(--radius-md);
+  padding: 16px 18px;
+}
+
+.diag-item-box.money {
+  border-left-color: var(--accent-green);
+  background-color: #F0FDF4;
+}
+
+.diag-item-box.step {
+  border-left-color: var(--accent-gold);
+  background-color: #FFFBEB;
+}
+
+.diag-item-label {
+  font-size: 18px;
+  font-weight: 800;
+  color: var(--text-main);
+  margin-bottom: 6px;
+}
+
+.diag-item-value {
+  font-size: 19px;
+  color: var(--text-main);
+  font-weight: 600;
+}
+
+.legal-badge-box {
+  background-color: #EFF6FF;
+  border: 2px solid #1E3A8A;
+  border-radius: 8px;
+  padding: 12px 16px;
+  font-size: 18px;
+  font-weight: 700;
+  color: #1E3A8A;
+}
+
+/* Mini-Calculadora en Vivo integrada en la pantalla de Diagnóstico */
+.live-calc-card {
+  background-color: #FFFFFF;
+  border: 3px solid var(--primary);
+  border-radius: var(--radius-lg);
+  padding: 24px 22px;
+  margin-bottom: 28px;
+  box-shadow: 0 6px 16px rgba(15, 23, 42, 0.06);
+}
+
+.calc-selector-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  margin: 16px 0 22px 0;
+}
+
+@media (max-width: 860px) {
+  .calc-selector-list {
+    grid-template-columns: 1fr;
+  }
+}
+
+.calc-select-card {
+  min-height: 64px;
+  padding: 14px 16px;
+  font-size: 18px;
+  font-weight: 800;
+  text-align: left;
+  color: var(--text-main);
+  background-color: #F8FAFC;
+  border: 2px solid var(--border-strong);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+}
+
+.calc-select-card:hover {
+  border-color: var(--primary);
+  background-color: #EFF6FF;
+}
+
+.calc-select-card.active {
+  background-color: #DBEAFE;
+  border: 3px solid var(--primary);
+  color: #0F172A;
+}
+
+.calc-workspace {
+  display: grid;
+  grid-template-columns: 1fr 1.15fr;
+  gap: 22px;
+  align-items: start;
+}
+
+@media (max-width: 880px) {
+  .calc-workspace {
+    grid-template-columns: 1fr;
+  }
+}
+
+.calc-inputs-box {
+  background-color: #F8FAFC;
+  border: 2px solid var(--border-strong);
+  border-radius: var(--radius-md);
+  padding: 20px;
+}
+
+.input-field-group {
+  margin-bottom: 20px;
+  padding-bottom: 16px;
+  border-bottom: 2px dashed #CBD5E1;
+}
+
+.input-field-group:last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+.input-label {
+  display: block;
+  font-size: 18px;
+  font-weight: 800;
+  color: var(--text-main);
+  margin-bottom: 10px;
+}
+
+.stepper-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.stepper-btn {
+  min-width: 60px;
+  min-height: 60px;
+  font-size: 28px;
+  font-weight: 900;
+  color: #FFFFFF;
+  background-color: var(--primary);
+  border: 2px solid #0F172A;
+  border-radius: 10px;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+.stepper-btn:hover {
+  background-color: var(--primary-hover);
+}
+
+.numeric-input-large {
+  width: 100%;
+  min-height: 60px;
+  font-size: 22px;
+  font-weight: 800;
+  text-align: center;
+  color: var(--text-main);
+  background-color: #FFFFFF;
+  border: 2px solid var(--border-strong);
+  border-radius: 10px;
+  padding: 8px 12px;
+}
+
+.unit-badge {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--text-secondary);
+  min-width: 62px;
+}
+
+.preset-chips-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.preset-chip {
+  min-height: 58px;
+  padding: 8px 14px;
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--text-main);
+  background-color: #FFFFFF;
+  border: 2px solid var(--border-strong);
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.preset-chip:hover,
+.preset-chip.active {
+  background-color: #DBEAFE;
+  border-color: var(--primary);
+  color: #1E3A8A;
+}
+
+.calc-results-box {
+  background-color: #FFFFFF;
+  border: 3px solid var(--primary);
+  border-radius: var(--radius-md);
+  padding: 20px;
+}
+
+.kpi-cards-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin-bottom: 18px;
+}
+
+@media (max-width: 640px) {
+  .kpi-cards-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.kpi-card {
+  background-color: #F8FAFC;
+  border: 2px solid var(--border-strong);
+  border-radius: 10px;
+  padding: 12px;
+  text-align: center;
+}
+
+.kpi-card.highlight {
+  background-color: #ECFDF5;
+  border-color: var(--accent-green);
+}
+
+.kpi-card-label {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--text-secondary);
+  margin-bottom: 4px;
+}
+
+.kpi-card-val {
+  font-size: 23px;
+  font-weight: 900;
+  color: var(--text-main);
+}
+
+.kpi-card.highlight .kpi-card-val {
+  color: #065F46;
+}
+
+.comparison-bars-section {
+  background-color: #F8FAFC;
+  border: 2px solid var(--border-strong);
+  border-radius: 12px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.comp-bar-group {
+  margin-bottom: 14px;
+}
+
+.comp-bar-group:last-child {
+  margin-bottom: 0;
+}
+
+.comp-bar-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 10px;
+  margin-bottom: 6px;
+  font-size: 18px;
+  font-weight: 800;
+}
+
+.comp-bar-track {
+  width: 100%;
+  height: 34px;
+  background-color: #E2E8F0;
+  border: 2px solid #475569;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.comp-bar-fill {
+  height: 100%;
+  transition: width 0.3s ease;
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+  color: #FFFFFF;
+  font-weight: 800;
+  font-size: 18px;
+}
+
+.comp-bar-fill.bar-a {
+  background-color: var(--accent-green);
+}
+
+.comp-bar-fill.bar-b {
+  background-color: var(--accent-gold);
+}
+
+.plain-explanation-box {
+  background-color: #FFFBEB;
+  border: 2px solid #B45309;
+  border-radius: 10px;
+  padding: 16px 18px;
+  margin-bottom: 14px;
+  font-size: 18px;
+}
+
+/* ==========================================================================
+   PASO 1 CTA: TARJETA VERDE DE REGALO 100% GRATUITO (0 € / 0 ZŁ / $0)
+   ========================================================================== */
+.cta-step1-card {
+  background-color: #F0FDF4;
+  border: 3px solid #15803D;
+  border-radius: var(--radius-lg);
+  padding: 26px 24px;
+  margin-bottom: 28px;
+  box-shadow: 0 6px 18px rgba(21, 128, 61, 0.10);
+}
+
+.cta-step1-badge {
+  display: inline-block;
+  background-color: #15803D;
+  color: #FFFFFF;
+  border-radius: 8px;
+  padding: 6px 14px;
+  font-size: 18px;
+  font-weight: 900;
+  margin-bottom: 12px;
+}
+
+.btn-green-giant {
+  min-height: 64px;
+  width: 100%;
+  padding: 16px 24px;
+  font-size: 21px;
+  font-weight: 900;
+  color: #FFFFFF;
+  background-color: #15803D;
+  border: 3px solid #052E16;
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  text-align: center;
+  text-decoration: none;
+  box-shadow: 0 4px 12px rgba(21, 128, 61, 0.28);
+  transition: background-color 0.15s, transform 0.08s;
+}
+
+.btn-green-giant:hover,
+.btn-green-giant:focus-visible {
+  background-color: #166534;
+  outline: 3px solid #86EFAC;
+}
+
+.gift-episodes-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 12px;
+  margin-top: 16px;
+}
+
+.gift-episode-btn {
+  min-height: 62px;
+  padding: 14px 18px;
+  background-color: #FFFFFF;
+  border: 2px solid #15803D;
+  border-radius: var(--radius-md);
+  color: var(--text-main);
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  transition: background-color 0.12s, border-color 0.12s;
+}
+
+.gift-episode-btn:hover,
+.gift-episode-btn:focus-visible {
+  background-color: #DCFCE7;
+  border-color: #052E16;
+  outline: 3px solid #86EFAC;
+}
+
+.gift-episode-btn.recommended {
+  background-color: #DCFCE7;
+  border: 3px solid #052E16;
+}
+
+.gift-ep-title {
+  font-size: 19px;
+  font-weight: 800;
+  color: #064E3B;
+  margin-bottom: 4px;
+}
+
+.gift-ep-desc {
+  font-size: 18px;
+  color: var(--text-secondary);
+}
+
+.gift-ep-pill {
+  background-color: #15803D;
+  color: #FFFFFF;
+  font-size: 18px;
+  font-weight: 800;
+  padding: 8px 14px;
+  border-radius: 8px;
+  flex-shrink: 0;
+}
+
+/* ==========================================================================
+   PASO 2 CTA: TARJETA INSTITUCIONAL NAVY/ORO — SISTEMA COMPLETO 2026
+   ========================================================================== */
+.cta-step2-card {
+  background-color: #0F172A;
+  color: #FFFFFF;
+  border: 4px solid #F59E0B;
+  border-radius: var(--radius-lg);
+  padding: 28px 24px;
+  margin-bottom: 24px;
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.22);
+}
+
+.cta-step2-badge {
+  display: inline-block;
+  background-color: #FEF3C7;
+  color: #78350F;
+  border: 2px solid #F59E0B;
+  border-radius: 8px;
+  padding: 6px 14px;
+  font-size: 18px;
+  font-weight: 900;
+  margin-bottom: 12px;
+}
+
+.cta-step2-title {
+  font-size: 26px;
+  line-height: 1.3;
+  font-weight: 900;
+  color: #FFFFFF;
+  margin: 0 0 10px 0;
+}
+
+.cta-step2-subtitle {
+  font-size: 19px;
+  color: #E2E8F0;
+  margin: 0 0 20px 0;
+}
+
+.comparison-table-wrap {
+  overflow-x: auto;
+  margin-bottom: 22px;
+}
+
+.comparison-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #FFFFFF;
+  color: #0F172A;
+  border-radius: 12px;
+  overflow: hidden;
+  border: 2px solid #CBD5E1;
+}
+
+.comparison-table th,
+.comparison-table td {
+  padding: 14px 16px;
+  text-align: left;
+  font-size: 18px;
+  border-bottom: 2px solid #E2E8F0;
+}
+
+.comparison-table th {
+  background-color: #1E293B;
+  color: #FFFFFF;
+  font-weight: 800;
+}
+
+.comparison-table th:nth-child(3) {
+  background-color: #B45309;
+  color: #FFFFFF;
+}
+
+.comparison-table td:nth-child(3) {
+  background-color: #FFFBEB;
+  font-weight: 800;
+  color: #78350F;
+}
+
+.btn-gold-giant {
+  min-height: 66px;
+  width: 100%;
+  padding: 16px 24px;
+  font-size: 22px;
+  font-weight: 900;
+  color: #0F172A;
+  background-color: #FBBF24;
+  border: 3px solid #FFFFFF;
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  text-align: center;
+  text-decoration: none;
+  box-shadow: 0 4px 16px rgba(251, 191, 36, 0.35);
+  transition: background-color 0.15s;
+}
+
+.btn-gold-giant:hover,
+.btn-gold-giant:focus-visible {
+  background-color: #F59E0B;
+  outline: 3px solid #FEF08A;
+}
+
+.btn-secondary-giant {
+  min-height: 60px;
+  padding: 12px 18px;
+  font-size: 18px;
+  font-weight: 800;
+  color: var(--text-main);
+  background-color: #FFFFFF;
+  border: 2px solid var(--border-strong);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.btn-secondary-giant:hover {
+  background-color: var(--bg-subtle);
+  border-color: var(--text-main);
+}
