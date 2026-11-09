@@ -499,7 +499,13 @@ const SENIOR_DATA = {
       "seoReference": {
         "sectionTitle": "📚 Gesetzliche Werte, Freibeträge & Renten-Rechner 2026 im Überblick (Deutschland)",
         "sectionIntro": "Zusammenfassung der wichtigsten gesetzlichen Schwellenwerte 2026 (aktueller Rentenwert 42,52 €, KVdR 9/10-Regel, Witwenrente Freibetrag 1.123,38 € und Mütterrente):",
-        "calculatorsTitle": "🧮 Verfügbare Online-Rechner für Deutschland (2026):"
+        "calculatorsTitle": "🧮 Verfügbare Online-Rechner für Deutschland (2026):",
+        "tableHeaders": [
+          "Thema / Ruhestands-Regel 2026",
+          "Gesetzlicher Grenzwert 2026",
+          "Finanzielle Auswirkung",
+          "Rechtsgrundlage (Gesetz)"
+        ]
       },
       "comparisonHeaders": [
         "Was Sie erhalten",
@@ -1037,7 +1043,13 @@ const SENIOR_DATA = {
       "seoReference": {
         "sectionTitle": "📚 Barèmes Officiels, Seuils CSG & Simulateurs Retraite 2026 (France)",
         "sectionIntro": "Synthèse des seuils légaux 2026 en France (barème RFR de la CSG Retraite, abattements de succession et assurance-vie avant/après 70 ans, plafond des frais bancaires de succession à 850 €) :",
-        "calculatorsTitle": "🧮 Simulateurs Gratuits en Ligne 2026 (France) :"
+        "calculatorsTitle": "🧮 Simulateurs Gratuits en Ligne 2026 (France) :",
+        "tableHeaders": [
+          "Dispositif / Règle Retraite 2026",
+          "Seuil / Barème Légal 2026",
+          "Impact Financier",
+          "Base Légale Officielle"
+        ]
       },
       "comparisonHeaders": [
         "Ce qui est inclus",
@@ -1559,7 +1571,13 @@ const SENIOR_DATA = {
       "seoReference": {
         "sectionTitle": "📚 Ustawowe Kwoty, Limity ZUS i Kalkulatory Emerytalne 2026 w Pigułce (Polska)",
         "sectionIntro": "Podsumowanie kluczowych wskaźników i przepisów na 2026 rok (Renta Wdowia ERWD limit 5 636,73 zł, Świadczenie Wspierające WZON 70–100 pkt, Art. 56 Prawa bankowego i przeliczenie emerytury ERPO):",
-        "calculatorsTitle": "🧮 Dostępne Kalkulatory Online 2026 (Polska):"
+        "calculatorsTitle": "🧮 Dostępne Kalkulatory Online 2026 (Polska):",
+        "tableHeaders": [
+          "Temat / Przepis Emerytalny 2026",
+          "Ustawowy Limit / Próg 2026",
+          "Wpływ Finansowy",
+          "Podstawa Prawna (Ustawa)"
+        ]
       },
       "comparisonHeaders": [
         "Co dokładnie otrzymujesz",
@@ -2108,7 +2126,13 @@ const SENIOR_DATA = {
       "seoReference": {
         "sectionTitle": "📚 2026 U.S. Retirement, Social Security & Medicare Statutory Reference",
         "sectionIntro": "Summary of key 2026 IRS, Social Security Administration (SSA), and Medicare thresholds (Provisional Income tax brackets, Age 62 vs. 67 vs. 70 break-even, Age 73 RMDs, and Form SSA-44 IRMAA appeals):",
-        "calculatorsTitle": "🧮 Free Interactive 2026 Retirement Calculators (United States):"
+        "calculatorsTitle": "🧮 Free Interactive 2026 Retirement Calculators (United States):",
+        "tableHeaders": [
+          "2026 Retirement / Tax Rule",
+          "2026 Statutory Threshold",
+          "Financial Impact",
+          "Official Legal Citation"
+        ]
       },
       "comparisonHeaders": [
         "What You Get",
@@ -2644,7 +2668,13 @@ const SENIOR_DATA = {
       "seoReference": {
         "sectionTitle": "📚 Wettelijke Vrijstellingen, AOW-Schijven & Rekenhulpen 2026 (Nederland)",
         "sectionIntro": "Overzicht van de belangrijkste Nederlandse bedragen en vrijstellingen in 2026 (erfbelasting vrijstelling kind & kleinkind € 26.230, schenkvrijstelling € 6.908, AOW schijfgrens € 40.857 en 8-maanden belastingrente):",
-        "calculatorsTitle": "🧮 Gratis Interactieve Rekenhulpen 2026 (Nederland):"
+        "calculatorsTitle": "🧮 Gratis Interactieve Rekenhulpen 2026 (Nederland):",
+        "tableHeaders": [
+          "Regeling / Vrijstelling 2026",
+          "Wettelijke Grens 2026",
+          "Financieel Effect",
+          "Wettelijke Grondslag"
+        ]
       },
       "comparisonHeaders": [
         "Wat u ontvangt",
@@ -3885,6 +3915,7 @@ const SENIOR_DATA = {
     const data = SENIOR_DATA[STATE.lang];
     const b = data.bridge;
     const seoRef = b.seoReference || {};
+    const ths = seoRef.tableHeaders || ["Rule (2026)", "2026 Threshold", "Financial Impact", "Legal Citation"];
 
     const outcomesHtml = (data.quiz.outcomes || []).map(function(out) {
       return '<div class="seo-statutory-item">' +
@@ -3893,6 +3924,15 @@ const SENIOR_DATA = {
                '<div style="font-size:18px;color:#065F46;font-weight:700;margin-bottom:4px;">💶 ' + escapeHtml(out.moneyAtStake) + '</div>' +
                '<div style="font-size:18px;color:#334155;">⚖️ ' + escapeHtml(out.source) + '</div>' +
              '</div>';
+    }).join("");
+
+    const tableRowsHtml = (data.quiz.outcomes || []).map(function(out) {
+      return '<tr>' +
+               '<td><strong>' + escapeHtml(out.title) + '</strong></td>' +
+               '<td>' + escapeHtml(out.threshold2026) + '</td>' +
+               '<td>' + escapeHtml(out.moneyAtStake) + '</td>' +
+               '<td><code>' + escapeHtml(out.source) + '</code></td>' +
+             '</tr>';
     }).join("");
 
     const calcsHtml = (data.calculators || []).map(function(c) {
@@ -3904,6 +3944,17 @@ const SENIOR_DATA = {
       '<h2 style="margin:0 0 8px 0;font-size:23px;font-weight:900;color:#0F172A;">' + escapeHtml(seoRef.sectionTitle || "") + '</h2>' +
       '<p style="margin:0 0 14px 0;font-size:18px;color:#334155;">' + escapeHtml(seoRef.sectionIntro || "") + '</p>' +
       '<div class="seo-statutory-grid">' + outcomesHtml + '</div>' +
+      '<div class="comparison-table-wrap" style="margin:16px 0 18px 0;">' +
+        '<table class="comparison-table seo-citation-table-2026">' +
+          '<thead><tr>' +
+            '<th>' + escapeHtml(ths[0]) + '</th>' +
+            '<th>' + escapeHtml(ths[1]) + '</th>' +
+            '<th>' + escapeHtml(ths[2]) + '</th>' +
+            '<th>' + escapeHtml(ths[3]) + '</th>' +
+          '</tr></thead>' +
+          '<tbody>' + tableRowsHtml + '</tbody>' +
+        '</table>' +
+      '</div>' +
       '<h3 style="margin:20px 0 8px 0;font-size:20px;font-weight:800;color:#1E3A8A;">' + escapeHtml(seoRef.calculatorsTitle || "") + '</h3>' +
       '<ul style="margin:0;padding-left:22px;color:#1E293B;">' + calcsHtml + '</ul>';
   }

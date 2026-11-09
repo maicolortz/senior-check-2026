@@ -1,0 +1,500 @@
+# Senior Check 2026 — Complete Statutory Reference Corpus (`llms-full.txt`)
+
+> Full single-fetch Markdown corpus for AI Search Engines, RAG Pipelines, and Answer Engines (`OAI-SearchBot`, `ChatGPT-User`, `PerplexityBot`, `ClaudeBot`, `Google-Extended`). Contains all 5 country portals (`DE`, `FR`, `PL`, `EN`, `NL`), 20 statutory diagnosis outcomes, 15 interactive calculators with input schemas and legal formulas, 25 free large-print checklists, and 5 complete 2026 senior workbooks.
+
+- **Last Modified:** `2026-11-09`
+- **Canonical Root:** https://maicolortz.github.io/senior-check-2026/
+- **Summary Index (`/llms.txt`):** https://maicolortz.github.io/senior-check-2026/llms.txt
+
+---
+
+## 🇩🇪 🇩🇪 Deutschland (Rente Klar) — Renten Zahlen (`/de/`)
+
+- **Canonical URL:** https://maicolortz.github.io/senior-check-2026/de/
+- **Page Title:** Renten Zahlen — Kostenloser 60-Sekunden-Ruhestands-Check & Rechner 2026
+- **Meta Description:** Prüfen Sie in 60 Sekunden Ihre Rente, KVdR 9/10-Regel, Mütterrente und Witwenrente anhand der gesetzlichen Werte 2026 (42,52 € Rentenwert). 100% kostenlos & DSGVO-privat.
+- **Hero Headline:** Verlieren Sie jeden Monat Geld bei Rente, Krankenkasse (KVdR) oder Witwenrente?
+- **Privacy Guarantee:** 🔒 100% Privat (DSGVO-konform): Ihre Daten werden ausschließlich lokal auf Ihrem eigenen Gerät berechnet und niemals an einen Server gesendet oder gespeichert.
+
+### A. 📚 Gesetzliche Werte, Freibeträge & Renten-Rechner 2026 im Überblick (Deutschland)
+
+Zusammenfassung der wichtigsten gesetzlichen Schwellenwerte 2026 (aktueller Rentenwert 42,52 €, KVdR 9/10-Regel, Witwenrente Freibetrag 1.123,38 € und Mütterrente):
+
+| Rule / Topic (2026) | 2026 Statutory Threshold | Financial Impact | Official Legal Citation | First Concrete Action Step |
+| :--- | :--- | :--- | :--- | :--- |
+| **Fokus 1: Vorzeitige Altersrente (0,3 % Abschlag/Monat & aktueller Rentenwert 42,52 €)** | Aktueller Rentenwert 2026: 42,52 € je Entgeltpunkt | Abschlag: 0,3 % pro vorgezogenem Monat (max. 14,4 % bei 48 Monaten). | Bei 40 Entgeltpunkten (1.700,80 € Bruttorente) kostet 3 Jahre früher gehen ca. 183,69 €/Monat brutto — doch Sie erhalten zuvor 36 volle Monatsrenten (über 48.000 € netto Vorsprung!). Der rechnerische Break-even-Punkt liegt erst bei rund 91,8 Jahren (297 Monate nach dem 67. Geburtstag). | `§§ 36, 77, 187a SGB VI — Deutsche Rentenversicherung (Stand 2026, Rentenwert 42,52 €)` | Fordern Sie mit Formular V0210 eine besondere Rentenauskunft nach § 109 Abs. 5 SGB VI bei der Deutschen Rentenversicherung an. |
+| **Fokus 2: 9/10-Regel der Krankenversicherung der Rentner (KVdR) + 36 Monate je Kind** | 90 %-Pflichtgrenze in der zweiten Hälfte des Erwerbslebens (§ 5 Abs. 1 Nr. 11 SGB V) + pauschal 36 Kalendermonate je Kind (§ 5 Abs. 2 S. 3 SGB V). | 2.100 € bis 3.400 € Ersparnis pro Jahr (über 35.000 € in 15 Rentenjahren), weil in der Pflicht-KVdR 0 % Krankenkassenbeiträge auf Mieteinnahmen, Zinsen, Dividenden und private Kapitalauszahlungen anfallen. | `§ 5 Abs. 1 Nr. 11 und Abs. 2 SGB V — GKV-Spitzenverband / DRV (Formular R0810)` | Reichen Sie bei Ihrer Krankenkasse die Geburtsurkunden aller Kinder (auch Stief-/Pflegekinder) zur Neuberechnung der Vorversicherungszeit ein. |
+| **Fokus 3: Witwenrente & Einkommensanrechnung (§ 97 SGB VI Freibetrag 2026)** | Dynamischer Freibetrag 2026: 1.123,38 € netto monatlich (26,4 × 42,52 €) + 238,29 € je waisenberechtigtem Kind. Eigenes Brutto wird vorab pauschal um 14 % bereinigt (§ 18b SGB IV). | Rund 1.100 € bis 2.600 € mehr Witwenrente pro Jahr durch korrekten 14 %-Pauschalabzug vom eigenen Brutto und zeitnahen Änderungsantrag bei gesunkenem Einkommen. | `§ 97 SGB VI i.V.m. §§ 18a–18e SGB IV — Deutsche Rentenversicherung (Stand 2026)` | Prüfen Sie die Anlage „Einkommensanrechnung“ Ihres Witwenrentenbescheids und beantragen Sie bei Einkommensminderung ab 10 % sofort eine Neuberechnung (§ 18d SGB IV). |
+| **Fokus 4: Überprüfungsantrag nach § 44 SGB X (Kontenklärung & Nachzahlung bis 4 Jahre rückwirkend)** | Kindererziehungszeiten: bis zu 3,0 Entgeltpunkte je Kind (= +127,56 € Rente/Monat je Kind ab 1992 bzw. +106,30 € vor 1992 beim Rentenwert 42,52 €). | Schon 1 einziger nachgetragener Entgeltpunkt bringt 510,24 € pro Jahr lebenslang — zuzüglich bis zu 4 Jahre rückwirkender Nachzahlung (§ 44 Abs. 4 SGB X). | `§ 44 SGB X, §§ 56, 249 SGB VI — Deutsche Rentenversicherung (V0100 / V0800)` | Stellen Sie einen schriftlichen Überprüfungsantrag nach § 44 SGB X in Verbindung mit dem Antrag auf Kontenklärung (V0100) und Anlage Kindererziehung (V0800). |
+
+### B. 60-Second Diagnostic Questions (4-Step Decision Tree)
+
+- **1. In welcher Altersgruppe oder Ruhestandsphase befinden Sie sich?**
+  - 58 bis 62 Jahre — Ich plane meinen Übergang in die Rente
+  - 63 bis 65 Jahre — Vorzeitige Altersrente (Rente mit 63) ist mein Thema
+  - 66 bis 67 Jahre — Kurz vor oder beim Start der Regelaltersrente
+  - Ab 68 Jahren — Ich beziehe bereits Rente und möchte Abzüge/Ansprüche prüfen
+- **2. Wie sieht Ihre aktuelle familiäre Situation aus?**
+  - Alleinstehend (mit oder ohne Kindererziehungszeiten)
+  - Verheiratet / Eingetragene Lebenspartnerschaft (mit Kindern)
+  - Verwitwet — Ich beziehe oder beantrage Witwen-/Witwerrente
+  - Geschieden oder alleinerziehend gewesen (Kindererziehungszeiten klären)
+- **3. Wie hoch ist Ihre (erwartete) monatliche Bruttorente bzw. Ihr Ruhestandseinkommen?**
+  - Unter 1.300 € brutto im Monat
+  - Zwischen 1.300 € und 1.850 € brutto im Monat
+  - Zwischen 1.850 € und 2.500 € brutto im Monat
+  - Über 2.500 € brutto im Monat (oder zusätzliche Mieteinnahmen / Betriebsrente)
+- **4. Welches Thema möchten Sie als Erstes rechtssicher klären?**
+  - Rente mit 63 vs. 67: Wie hoch ist der 0,3 %-Abschlag pro Monat und wann liegt der Break-even-Punkt?
+  - 9/10-Regel der KVdR & +36 Monate Kinderbonus: Wie spare ich bis zu 240 € Krankenkassenbeitrag im Monat?
+  - Witwenrente 2026: Wie viel bleibt nach dem neuen Freibetrag von 1.123,38 € (§ 97 SGB VI) netto übrig?
+  - Rentenbescheid überprüfen (§ 44 SGB X): Fehlende Ausbildungs-, Kinder- oder Pflegezeiten nachfordern
+
+### C. 🧮 Verfügbare Online-Rechner für Deutschland (2026):
+
+#### 1. 1. Rente mit 63 vs. 67 (Abschlag 0,3%/Monat · Rentenwert 42,52 € · Break-even Alter) (`id: de_calc_1`)
+- **Purpose & Formula Summary:** Berechnen Sie Ihren exakten Monatsbetrag, den Netto-Vorsprung vor dem 67. Lebensjahr und das Lebensalter, ab dem die Regelaltersrente die Frührente überholt.
+- **Official Legal Reference:** `§§ 36, 77, 187a SGB VI · Aktueller Rentenwert 2026: 42,52 € je Entgeltpunkt`
+- **Interactive Input Parameters:**
+  - `ep` (Ihre Entgeltpunkte (Rentenpunkte laut Renteninformation):): default `40 EP` (range `10` to `85`, step `1`, presets: `[30, 35, 40, 45, 52]`)
+  - `monthsEarly` (Wie viele Monate vor der Regelaltersgrenze (67 J.) möchten Sie in Rente gehen?): default `36 Monate` (range `6` to `48`, step `6`, presets: `[12, 24, 36, 48]`)
+  - `kvPvPct` (Abzug für Kranken- & Pflegeversicherung in der KVdR (Standard ca. 11,7 %):): default `11.7 %` (range `0` to `21`, step `0.5`, presets: `[11.2, 11.7, 12.5, 19.1]`)
+
+#### 2. 2. 9/10-Regel der KVdR (Erwerbsleben · +36 Monate je Kind · Ersparnis vs. freiwillige GKV) (`id: de_calc_2`)
+- **Purpose & Formula Summary:** Prüfen Sie sofort, ob Sie mit dem Kinder-Bonus (§ 5 Abs. 2 SGB V: pauschal +3 Jahre je Kind) die 90 %-Hürde für die günstige Pflichtversicherung der Rentner knacken.
+- **Official Legal Reference:** `§ 5 Abs. 1 Nr. 11 & Abs. 2 Satz 3 SGB V · Formular R0810 (Meldung zur KVdR)`
+- **Interactive Input Parameters:**
+  - `workYears` (Gesamtes Erwerbsleben (Jahre vom ersten Job/Ausbildung bis zum Rentenantrag):): default `44 Jahre` (range `20` to `54`, step `1`, presets: `[38, 40, 44, 48]`)
+  - `gkvYearsSecondHalf` (Davon Jahre in der gesetzlichen Krankenkasse (GKV) in der 2. Hälfte des Erwerbslebens:): default `16 Jahre` (range `5` to `27`, step `1`, presets: `[14, 16, 18, 20]`)
+  - `childrenCount` (Anzahl der Kinder (leiblich, Adoptiv-, Stief- oder Pflegekinder = je +36 Monate):): default `2 Kinder` (range `0` to `6`, step `1`, presets: `[0, 1, 2, 3, 4]`)
+  - `extraIncome` (Zusätzliche Einkünfte im Ruhestand (Miete, Zinsen, Direktversicherung in €/Monat):): default `900 €/Monat` (range `0` to `5000`, step `100`, presets: `[400, 900, 1500, 2500]`)
+
+#### 3. 3. Witwenrente Einkommensanrechnung (§ 97 SGB VI · Freibetrag 2026: 1.123,38 €) (`id: de_calc_3`)
+- **Purpose & Formula Summary:** Berechnen Sie Ihre auszahlbare Witwen-/Witwerrente inklusive 14 % Pauschalabzug auf die eigene Rente und dem neuen Freibetrag von 1.123,38 €.
+- **Official Legal Reference:** `§ 97 SGB VI i.V.m. § 18b SGB IV · Freibetrag 2026: 1.123,38 € (+ 238,29 € je Kind)`
+- **Interactive Input Parameters:**
+  - `deceasedPension` (Monatliche Bruttorente des verstorbenen Ehepartners:): default `2100 €/Monat` (range `600` to `4500`, step `100`, presets: `[1500, 1800, 2100, 2600]`)
+  - `ownPensionBrutto` (Ihre eigene monatliche Altersrente (Brutto):): default `1650 €/Monat` (range `0` to `4500`, step `50`, presets: `[1200, 1500, 1650, 2200]`)
+  - `widowRatePct` (Witwenrenten-Satz (55 % neues Recht / 60 % altes Recht bei Ehe vor 2002):): default `60 %` (range `55` to `60`, step `5`, presets: `[55, 60]`)
+  - `orphanChildren` (Anzahl waisenrentenberechtigter Kinder (+238,29 € Freibetrag je Kind):): default `0 Kinder` (range `0` to `5`, step `1`, presets: `[0, 1, 2]`)
+
+### D. Free Printable Episode Checklists ($0 / 0 € / 0 zł — Large-Print ≥ 16.5 pt PDF)
+
+- **[V01] [Rente mit 63 oder 67: Abschlag- & Break-even-Rechner (0 €)](https://maicolortizh.gumroad.com/l/rente-63-oder-67-rechner-gratis?wanted=true)**: Berechnen Sie den 0,3 %-Abschlag pro Monat, Ihren Netto-Vorsprung vor 67 und das genaue Überhol-Alter.
+- **[V02] [Rente im Ausland: Checkliste Krankenversicherung & Steuer (0 €)](https://maicolortizh.gumroad.com/l/rente-im-ausland-checkliste-gratis?wanted=true)**: Was Sie vor einem längeren Auslandsaufenthalt oder Umzug bei DRV, KVdR und Finanzamt prüfen müssen.
+- **[V03] [KVdR 9/10-Regel & +36 Monate Kinder-Bonus Check (0 €)](https://maicolortizh.gumroad.com/l/kvdr-9-10-regel-check-gratis?wanted=true)**: So zählen 3 Jahre pauschal je Kind (§ 5 Abs. 2 SGB V) für die günstige Pflichtversicherung der Rentner.
+- **[V04] [Mütterrente, Kindererziehung & Pflege-Punkte Check (0 €)](https://maicolortizh.gumroad.com/l/muetterrente-minijob-check-gratis?wanted=true)**: Prüfen Sie fehlende Entgeltpunkte im Versicherungsverlauf (V0100 / V0800) und § 44 SGB X Nachzahlung.
+- **[V05] [Witwenrente Freibetrag 2026 (1.123,38 €) & Steuer-Check (0 €)](https://maicolortizh.gumroad.com/l/witwenrente-steuer-check-gratis?wanted=true)**: Prüfen Sie den 14 %-Pauschalabzug (§ 18b SGB IV) und die Einkommensanrechnung nach § 97 SGB VI.
+
+### E. Complete 2026 Workbook & Action Letters Pack
+
+- **Complete Digital Pack (19 €):** [Rente Klar 2026 — Großdruck-Handbuch (88 S.) + Excel- & Web-Rechner + 10 Musterschreiben (DIN A4)](https://maicolortizh.gumroad.com/l/rente-klar-vollversion?wanted=true)
+- **Included Deliverables:** Sofort-Download nach dem Kauf · Großdruck-Handbuch (PDF A4, ≥ 16,5 pt) · 5-Blatt Excel-Rechner (.xlsx) + Web-App · 10 druckfertige Musterschreiben (§ 44 SGB X, V0210, R0810, § 97 SGB VI)
+- **Amazon 16pt Large-Print Paperback (Amazon.de):** [Rente Klar 2026](https://www.amazon.de/s?k=Rente+Klar+2026+Renten+Zahlen) — Neben dem digitalen Sofort-Download oben (inkl. Excel- & Web-Rechner) ist das Arbeitsbuch „Rente Klar 2026“ auch als gedrucktes Großdruck-Taschenbuch (16 pt Schriftgröße, zum Ausfüllen am Küchentisch) auf Amazon.de erhältlich:
+
+### F. Official Action Letter Templates Included in the System
+
+- **1. Antrag auf besondere Rentenauskunft & Ausgleich rentenrechtlicher Abschläge (§ 109 Abs. 5 & § 187a SGB VI — Formular V0210)** — *Antrag auf Erteilung einer besonderen Rentenauskunft über die Höhe der Beitragszahlung zum Ausgleich einer Rentenminderung (§ 109 Abs. 5 S. 4 i.V.m. § 187a SGB VI — Vordruck V0210)*
+- **2. Antrag auf Aufnahme in die Pflicht-KVdR unter Anrechnung von +36 Monaten je Kind (§ 5 Abs. 1 Nr. 11 & Abs. 2 SGB V)** — *Überprüfung und Feststellung der Versicherungspflicht in der Krankenversicherung der Rentner (KVdR) gemäß § 5 Abs. 1 Nr. 11 SGB V unter Einbeziehung der Kinderpauschale nach § 5 Abs. 2 Satz 3 SGB V*
+- **3. Antrag auf Neuberechnung der Witwen-/Witwerrente & Einkommensanrechnung (§ 97 SGB VI & § 18d SGB IV — Freibetrag 2026)** — *Antrag auf Überprüfung und Neuberechnung der Einkommensanrechnung bei meiner Witwen-/Witwerrente gemäß § 97 SGB VI i.V.m. §§ 18b, 18d SGB IV*
+- **4. Überprüfungsantrag zum Rentenbescheid wegen fehlender Kindererziehungs- oder Ausbildungszeiten (§ 44 SGB X — V0100 / V0800)** — *Antrag auf Überprüfung meines Rentenbescheids / Versicherungsverlaufs gemäß § 44 SGB X sowie Antrag auf Feststellung von Kindererziehungszeiten (V0100 / V0800)*
+- **5. Antrag auf Eintragung von Entgeltpunkten für nicht erwerbsmäßige häusliche Pflege (§ 44 SGB XI & § 166 SGB VI)** — *Antrag auf Feststellung der Rentenversicherungspflicht als nicht erwerbsmäßige Pflegeperson gemäß § 44 SGB XI i.V.m. § 3 Satz 1 Nr. 1a und § 166 Abs. 2 SGB VI*
+- **6. Fristwahrender Widerspruch gegen einen fehlerhaften Rentenbescheid (§ 84 SGG — 1-Monats-Frist wahren)** — *Fristwahrender Widerspruch gemäß § 84 Sozialgerichtsgesetz (SGG) gegen Ihren Bescheid sowie Antrag auf vollständige Akteneinsicht nach § 25 SGB X*
+
+### G. Legal Disclaimer, Privacy & Impressum
+
+- **⚖️ Wichtiger Rechtshinweis (Keine Rechts-, Renten- oder Steuerberatung):** Dieses Angebot von „Renten Zahlen“ ist ein unabhängiges Bildungs-, Informations- und Rechenwerkzeug zur privaten Orientierung anhand der gesetzlichen Werte 2026. Es stellt keine Rechts-, Steuer- oder Rentenberatung im Sinne des Rechtsdienstleistungsgesetzes (RDG) oder Steuerberatungsgesetzes (StBerG) dar und steht in keinerlei Verbindung zur Deutschen Rentenversicherung (DRV), den gesetzlichen Krankenkassen oder Finanzbehörden. Für verbindliche Auskünfte wenden Sie sich bitte an die DRV, einen zugelassenen Rentenberater oder Steuerberater.
+- **🔒 Datenschutz (DSGVO / TDDDG):** Alle Eingaben im 60-Sekunden-Schnelltest und im Live-Rechner werden zu 100 % lokal im Arbeitsspeicher Ihres eigenen Endgeräts (Client-Side JavaScript) berechnet. Es werden keine personenbezogenen Gesundheits- oder Finanzdaten an unsere Server übertragen oder gespeichert. Beim Klick auf einen Download-Link wechseln Sie zum Zahlungs- und Download-Anbieter Gumroad Inc.
+- **📄 Impressum & Kontakt (Anbieterkennzeichnung):** Herausgeber: Maicol Ortiz · Digital Publishing & Senior Education · E-Mail / Leserservice: maicolortizh@gmail.com · Redaktioneller Stand: Gesetzliche Werte 2026 (Rentenwert 42,52 €).
+
+---
+
+## 🇫🇷 🇫🇷 France (Retraite Clair) — Calcul Retraite (`/fr/`)
+
+- **Canonical URL:** https://maicolortz.github.io/senior-check-2026/fr/
+- **Page Title:** Calcul Retraite — Diagnostic Gratuit en 60 Secondes & Simulateur 2026
+- **Meta Description:** Vérifiez en 60 secondes votre taux de CSG Retraite 2026, vos abattements de succession (152 500 € avant 70 ans), le plafond des frais bancaires (850 €) et votre pension CARSAT.
+- **Hero Headline:** Payez-vous trop de CSG sur votre retraite ou de frais sur votre succession en 2026 ?
+- **Privacy Guarantee:** 🔒 100 % Privé (Conforme RGPD) : Vos données sont calculées sur votre propre appareil et ne sont jamais envoyées ni enregistrées sur aucun serveur.
+
+### A. 📚 Barèmes Officiels, Seuils CSG & Simulateurs Retraite 2026 (France)
+
+Synthèse des seuils légaux 2026 en France (barème RFR de la CSG Retraite, abattements de succession et assurance-vie avant/après 70 ans, plafond des frais bancaires de succession à 850 €) :
+
+| Rule / Topic (2026) | 2026 Statutory Threshold | Financial Impact | Official Legal Citation | First Concrete Action Step |
+| :--- | :--- | :--- | :--- | :--- |
+| **Priorité 1 : Barème CSG Retraite 2026 & Mécanisme de Lissage (Art. L. 136-8 CSS)** | Pour 1 part : Exonération 0 % sous 12 817 € | Taux réduit 3,8 % sous 16 755 € | Taux médian 6,6 % sous 26 002 €. Pour 2 parts : 0 % sous 19 661 € | 3,8 % sous 25 701 € | 6,6 % sous 39 890 €. | De 750 € à 1 680 € par an de pension nette préservée. Si vous franchissez le seuil de 3,8 % pour la 1re fois, le « lissage légal » bloque la hausse à 6,6 % pendant 1 an ! | `Article L. 136-8 du Code de la sécurité sociale — Circulaire CNAV / Barème officiel 2026` | Vérifiez la ligne « Revenu Fiscal de Référence » de votre avis d'imposition et envoyez une réclamation de taux CSG à la CARSAT et à l'Agirc-Arrco. |
+| **Priorité 2 : Succession (100 000 € / enfant) & Assurance-Vie (Avant vs Après 70 ans)** | Abattement parent-enfant : 100 000 € tous les 15 ans (Art. 779 CGI) + Don familial de sommes d'argent : 31 865 € (Art. 790 G CGI) + Assurance-Vie : 152 500 € par bénéficiaire avant 70 ans (Art. 990 I) contre 30 500 € global après 70 ans (Art. 757 B). | Jusqu'à 24 400 € à 48 000 € de droits de succession économisés en séparant les versements avant et après 70 ans. | `Articles 779, 790 G, 990 I et 757 B du Code général des impôts (BOFiP 2026)` | Ouvrez un contrat d'assurance-vie distinct pour tout versement après 70 ans et vérifiez la clause bénéficiaire démembrée ou par représentation. |
+| **Priorité 3 : Plafonnement des Frais Bancaires de Succession 2026 & Déblocage Obsèques** | Loi n° 2025-127 : 0 € de frais sous 5 910 € d'avoirs (ou succession simple) et plafond strict de 1 % des avoirs avec un maximum absolu de 850 €. Déblocage direct obsèques jusqu'à 5 910 € (Art. L. 312-1-4 CMF). | Jusqu'à 650 € de frais bancaires abusifs remboursés et 5 910 € débloqués immédiatement sans avancer l'argent de votre poche. | `Loi n° 2025-127 & Article L. 312-1-4 du Code monétaire et financier (2026)` | Transmettez à la banque la facture des pompes funèbres avec la lettre visant l'article L. 312-1-4 du Code monétaire et financier et le plafond légal de 1 % / 850 €. |
+| **Priorité 4 : Régularisation de Carrière CARSAT / Agirc-Arrco & Pension de Réversion** | Réversion CNAV : 54 % (sous plafond de ressources 2026 : 24 710,40 € seul / 39 536,64 € en couple) + Réversion Agirc-Arrco : 60 % SANS aucune condition de ressources. | De 1 800 € à 6 400 € par an (notamment la réversion Agirc-Arrco de 60 % souvent oubliée par les conjoints dépassant le plafond CNAV). | `Articles L. 353-1 et L. 351-1 du Code de la sécurité sociale & Accord national Agirc-Arrco` | Envoyez la demande de révision ou de réversion couplée CNAV / Agirc-Arrco par courrier recommandé ou via votre espace Info-Retraite. |
+
+### B. 60-Second Diagnostic Questions (4-Step Decision Tree)
+
+- **1. Dans quelle tranche d'âge ou étape de retraite vous situez-vous ?**
+  - 60 à 63 ans — Je prépare ma liquidation de retraite (carrière longue / taux plein)
+  - 64 à 69 ans — Je suis retraité et j'approche du cap fiscal crucial des 70 ans
+  - 70 à 77 ans — Je veux protéger mon pouvoir d'achat (CSG) et organiser ma succession
+  - 78 ans et plus — Protection du conjoint survivant, frais bancaires et réversion
+- **2. Quelle est la composition fiscale de votre foyer (nombre de parts) ?**
+  - 1 part fiscale (Personne seule, célibataire, divorcée ou veuve)
+  - 1,5 part fiscale (Personne seule avec demi-part ancien combattant, invalidité ou parent isolé)
+  - 2 parts fiscales (Couple marié ou pacsé soumis à imposition commune)
+  - 2,5 parts ou plus (Couple avec personne rattachée ou carte mobilité inclusion)
+- **3. Quel est votre Revenu Fiscal de Référence (RFR) ou votre épargne à protéger ?**
+  - RFR inférieur à 16 755 € (seul) ou 25 701 € (couple) — Zone exonération / taux réduit CSG
+  - RFR entre 16 755 € et 26 002 € (seul) ou 25 701 € à 39 890 € (couple) — Zone médiane 6,6 %
+  - RFR supérieur à 26 002 € (seul) ou 39 890 € (couple) — Taux normal CSG 8,3 % (9,1 % total)
+  - Patrimoine ou Assurance-Vie de plus de 50 000 € à transmettre aux enfants sans surtaxe
+- **4. Quelle est votre priorité numéro 1 aujourd'hui ?**
+  - Seuils de CSG Retraite 2026 : Vérifier mon taux (0 %, 3,8 %, 6,6 % ou 8,3 %) et le lissage légal
+  - Abattements Succession (100 000 €/enfant) & Assurance-Vie (152 500 € avant 70 ans vs 30 500 € après 70 ans)
+  - Frais bancaires après décès : Appliquer le plafond légal 2026 (1 % max 850 €) et débloquer 5 910 € d'obsèques
+  - Révision de pension CARSAT / Agirc-Arrco ou demande de pension de réversion (54 % / 60 %)
+
+### C. 🧮 Simulateurs Gratuits en Ligne 2026 (France) :
+
+#### 1. 1. Seuils de CSG Retraite 2026 (RFR & Parts fiscales : 0 % · 3,8 % · 6,6 % · 8,3 %) (`id: fr_calc_1`)
+- **Purpose & Formula Summary:** Vérifiez votre tranche officielle de prélèvements sociaux (CSG + CRDS + CASA) en 2026 et calculez l'écart exact en euros avec le seuil inférieur.
+- **Official Legal Reference:** `Art. L. 136-8 du Code de la sécurité sociale · Barème officiel Assurance Retraite 2026`
+- **Interactive Input Parameters:**
+  - `rfr` (Votre Revenu Fiscal de Référence (RFR inscrit sur votre avis d'imposition en €/an) :): default `25200 €/an` (range `8000` to `75000`, step `500`, presets: `[12500, 16500, 25200, 38500]`)
+  - `parts` (Nombre de parts fiscales de votre foyer (1 = seul, 2 = couple marié/pacsé) :): default `2 parts` (range `1` to `4`, step `0.5`, presets: `[1, 1.5, 2, 2.5]`)
+  - `pensionBrute` (Pension de retraite brute totale du foyer (CARSAT + Agirc-Arrco en €/mois) :): default `2400 €/mois` (range `700` to `7000`, step `100`, presets: `[1400, 1900, 2400, 3200]`)
+
+#### 2. 2. Abattements Succession & Assurance-Vie (100 000 €/enfant · 152 500 € avant 70 ans vs 30 500 € après 70 ans) (`id: fr_calc_2`)
+- **Purpose & Formula Summary:** Comparez les droits de succession payés par vos enfants selon que vous utilisez les abattements avant 70 ans (Art. 990 I) ou après 70 ans (Art. 757 B).
+- **Official Legal Reference:** `Articles 779, 790 G, 990 I et 757 B du Code général des impôts (CGI 2026)`
+- **Interactive Input Parameters:**
+  - `nbChildren` (Nombre d'enfants bénéficiaires :): default `2 enfants` (range `1` to `6`, step `1`, presets: `[1, 2, 3, 4]`)
+  - `estateHorsAV` (Patrimoine hors assurance-vie (maison + livrets/comptes en €) :): default `240000 €` (range `20000` to `1200000`, step `20000`, presets: `[150000, 240000, 350000, 500000]`)
+  - `avCapital` (Capital placé ou à placer en Assurance-Vie (€) :): default `160000 €` (range `10000` to `800000`, step `10000`, presets: `[60000, 120000, 160000, 300000]`)
+
+#### 3. 3. Frais bancaires après décès & Déblocage obsèques (Plafond 1 % / 850 € & 5 910 €) (`id: fr_calc_3`)
+- **Purpose & Formula Summary:** Calculez le plafond légal strict des frais bancaires de succession en 2026 et la somme immédiatement déblocable pour payer les obsèques sans notaire.
+- **Official Legal Reference:** `Loi n° 2025-127 (plafonnement 1 % max 850 €) & Art. L. 312-1-4 Code monétaire et financier (5 910 €)`
+- **Interactive Input Parameters:**
+  - `bankBalance` (Total des avoirs sur les comptes et livrets du défunt (€) :): default `38000 €` (range `1000` to `300000`, step `2000`, presets: `[5000, 18000, 38000, 95000]`)
+  - `funeralBill` (Montant de la facture des obsèques (€) :): default `4900 €` (range `1500` to `12000`, step `250`, presets: `[3500, 4900, 5910, 7500]`)
+
+### D. Free Printable Episode Checklists ($0 / 0 € / 0 zł — Large-Print ≥ 16.5 pt PDF)
+
+- **[V01] [Seuils CSG Retraite 2026 : Barème RFR & Lissage Légal (0 €)](https://maicolortizh.gumroad.com/l/seuils-csg-retraite-gratuit?wanted=true)**: Vérifiez votre tranche (0 %, 3,8 %, 6,6 %, 8,3 %) selon votre RFR et vos parts fiscales.
+- **[V02] [Après un décès : Démarches, Frais bancaires (max 850 €) & Obsèques (0 €)](https://maicolortizh.gumroad.com/l/apres-un-deces-avant-de-vendre-gratuit?wanted=true)**: Comment débloquer jusqu'à 5 910 € pour les obsèques et appliquer le plafond légal de 1 % / 850 €.
+- **[V03] [Épargne & Assurance-Vie : Avant 70 ans (152 500 €) vs Après 70 ans (30 500 €) — Guide 0 €](https://maicolortizh.gumroad.com/l/epargne-apres-60-ans-gratuit?wanted=true)**: Protégez votre épargne et comparez les abattements de 100 000 € par enfant, 152 500 € (Art. 990 I) et 30 500 € (Art. 757 B).
+- **[V04] [Protéger le logement familial & les droits du conjoint survivant (0 €)](https://maicolortizh.gumroad.com/l/logement-apres-un-deces-gratuit?wanted=true)**: Droit viager au logement, usufruit, pension de réversion (54 % CNAV / 60 % Agirc-Arrco).
+- **[V05] [Vérifier son Relevé de Carrière (RIS) : Trimestres enfants & oublis (0 €)](https://maicolortizh.gumroad.com/l/verifier-sa-retraite-gratuit?wanted=true)**: Repérez les trimestres et points Agirc-Arrco oubliés avant ou après la liquidation de votre retraite.
+
+### E. Complete 2026 Workbook & Action Letters Pack
+
+- **Complete Digital Pack (19 €):** [Retraite Clair 2026 — Guide Grands Caractères (84 p.) + Simulateurs Excel & Web + 10 Lettres Prêtes à Imprimer (PDF A4)](https://maicolortizh.gumroad.com/l/retraite-clair-version-complete?wanted=true)
+- **Included Deliverables:** Accès immédiat · Guide pratique A4 en grands caractères ≥ 16,5 pt (PDF & DOCX) · Classeur Excel 5 onglets (.xlsx) + Simulateur Web · 10 modèles de courriers (CARSAT, Agirc-Arrco, Banque, Impôts)
+- **Amazon 16pt Large-Print Paperback (Amazon.fr):** [Retraite Clair 2026](https://www.amazon.fr/s?k=Retraite+Clair+2026+Calcul+Retraite) — En plus du téléchargement numérique immédiat ci-dessus (avec simulateurs Excel & Web), le cahier pratique « Retraite Clair 2026 » est également disponible en livre broché Grands Caractères (16 pt) sur Amazon.fr :
+
+### F. Official Action Letter Templates Included in the System
+
+- **1. Demande de révision du taux de CSG sur pension de retraite & application du lissage (Art. L. 136-8 CSS)** — *Demande de rectification du taux de Contribution Sociale Généralisée (CSG), CRDS et CASA appliqué à ma pension de retraite (Article L. 136-8 du Code de la sécurité sociale)*
+- **2. Demande de prélèvement direct des frais d'obsèques (5 910 €) & plafonnement des frais bancaires de succession (Art. L. 312-1-4 CMF & Loi n° 2025-127)** — *Demande de règlement direct des frais d'obsèques sur les comptes du défunt (Art. L. 312-1-4 du CMF) et application du plafonnement légal des frais bancaires de succession*
+- **3. Déclaration de don familial exonéré (Art. 779 & 790 G CGI) & rédaction de clause bénéficiaire Assurance-Vie (Art. 990 I CGI)** — *Notification de donation familiale exonérée de droits (Articles 779 et 790 G du CGI) et mise à jour expresse de ma clause bénéficiaire d'assurance-vie (Article 990 I du CGI)*
+- **4. Demande de pension de réversion régime de base (54 % CARSAT) et complémentaire (60 % Agirc-Arrco sans condition de ressources)** — *Demande de liquidation de pension de réversion des régimes de base (Art. L. 353-1 CSS — Cerfa n° 13364) et complémentaire Agirc-Arrco*
+- **5. Réclamation pour régularisation de relevé de carrière (Trimestres enfants, service national, chômage ou salaires oubliés)** — *Demande de régularisation de mon Relevé Individuel de Situation (RIS) et de révision du nombre de trimestres validés et points Agirc-Arrco (Articles L. 351-1 à L. 351-4 du CSS)*
+- **6. Saisine de la Commission de Recours Amiable (CRA) pour contester une notification de retraite ou un refus (Art. R. 142-1 CSS)** — *Recours administratif préalable obligatoire devant la Commission de Recours Amiable (CRA) — Article R. 142-1 du Code de la sécurité sociale (Lettre recommandée avec AR)*
+
+### G. Legal Disclaimer, Privacy & Impressum
+
+- **⚖️ Mentions légales & Avertissement (Absence de conseil juridique, fiscal ou financier) :** Le site « Calcul Retraite » est un outil pédagogique et informatif indépendant basé sur les barèmes légaux en vigueur en 2026. Les simulations fournies à titre purement indicatif ne constituent en aucun cas un conseil juridique, fiscal, notarial ou financier personnalisé. Ce site est totalement indépendant de l'Assurance Retraite (CNAV / CARSAT), de l'Agirc-Arrco et de la Direction générale des Finances publiques (DGFiP).
+- **🔒 Protection des données personnelles (RGPD) :** 100 % des calculs effectués sur cette page (quiz de 60 secondes et simulateur en direct) sont exécutés localement dans le navigateur de votre appareil. Aucune donnée financière ou personnelle n'est transmise ni enregistrée sur nos serveurs.
+- **📄 Éditeur & Contact :** Éditeur : Maicol Ortiz · Digital Publishing & Senior Education · Contact / Support : maicolortizh@gmail.com · Barèmes mis à jour pour l'année 2026.
+
+---
+
+## 🇵🇱 🇵🇱 Polska (Emerytura Jasno) — Liczby Emerytury (`/pl/`)
+
+- **Canonical URL:** https://maicolortz.github.io/senior-check-2026/pl/
+- **Page Title:** Liczby Emerytury — Bezpłatna Diagnoza w 60 Sekund i Kalkulator ZUS 2026
+- **Meta Description:** Sprawdź w 60 sekund swój wariant Renty Wdowiej (ERWD), progi Świadczenia Wspierającego WZON (70–100 pkt), ochronę konta (Art. 56) i przeliczenie emerytury ZUS.
+- **Hero Headline:** Sprawdź w 60 sekund, jakie kwoty i ulgi w ZUS oraz banku przysługują Ci w 2026 roku
+- **Privacy Guarantee:** 🔒 100% Prywatności (Zgodność z RODO): Twoje dane są obliczane wyłącznie na Twoim własnym urządzeniu i nigdy nie są wysyłane ani zapisywane na żadnym serwerze.
+
+### A. 📚 Ustawowe Kwoty, Limity ZUS i Kalkulatory Emerytalne 2026 w Pigułce (Polska)
+
+Podsumowanie kluczowych wskaźników i przepisów na 2026 rok (Renta Wdowia ERWD limit 5 636,73 zł, Świadczenie Wspierające WZON 70–100 pkt, Art. 56 Prawa bankowego i przeliczenie emerytury ERPO):
+
+| Rule / Topic (2026) | 2026 Statutory Threshold | Financial Impact | Official Legal Citation | First Concrete Action Step |
+| :--- | :--- | :--- | :--- | :--- |
+| **Priorytet 1: Renta Wdowia 2026/2027 (Formularz ZUS ERWD — 15% w 2026 r. i 25% od 2027 r.)** | Maksymalny limit łączonych świadczeń w 2026 r.: 3-krotność najniższej emerytury = 5 636,73 zł brutto (3 × 1 878,91 zł). Renta rodzinna dla 1 osoby to 85% świadczenia zmarłego małżonka. | Od 420 zł do 1 150 zł miesięcznie więcej (od 5 040 zł do ponad 13 800 zł rocznie!) dzięki wyborowi korzystniejszego wariantu (100% + 15%/25%). | `Art. 95a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z FUS — ZUS (Formularz ERWD 2026)` | Złóż w ZUS formularz ERWD i zaznacz opcję automatycznego wyboru korzystniejszego wariantu (100% renty rodzinnej + 15%/25% własnej lub odwrotnie). |
+| **Priorytet 2: Świadczenie Wspierające 2026 (6 progów WZON od 70 do 100 punktów)** | W 2026 r. uprawnia już poziom od 70 do 100 punktów potrzeby wsparcia w decyzji WZON. Kwoty wynoszą od 40% do 220% renty socjalnej (od ok. 792 zł do 4 353 zł miesięcznie na rękę — 0% podatku PIT i brak kryterium dochodowego!). | Od 9 504 zł do aż 52 236 zł rocznie dodatku wypłacanego bezpośrednio seniorowi niezależnie od pobieranej emerytury czy renty wdowiej. | `Ustawa z dnia 7 lipca 2023 r. o świadczeniu wspierającym (Dz.U. 2023 poz. 1429 — progi 70–100 pkt w 2026 r.)` | Złóż wniosek do Wojewódzkiego Zespołu ds. Orzekania o Niepełnosprawności (WZON) o ustalenie poziomu potrzeby wsparcia, a po decyzji — wniosek SWN elektronicznie do ZUS. |
+| **Priorytet 3: Ochrona Konta Bankowego — Dyspozycja wkładem na wypadek śmierci (Art. 56) i Koszty Pogrzebu (Art. 55a)** | Limit wypłaty poza spadkiem z Art. 56 Prawa bankowego: 20-krotność przeciętnego wynagrodzenia GUS (ok. 175 000 zł w 2026 r.). Zwrot kosztów pogrzebu z konta zmarłego (Art. 55a) + zasiłek pogrzebowy ZUS (7 000 zł). | Natychmiastowy dostęp rodziny do kwoty do ~175 000 zł w 3–7 dni bez wielomiesięcznego czekania na sąd spadkowy i bez blokady środków na pogrzeb. | `Art. 55a oraz Art. 56 ustawy z dnia 29 sierpnia 1997 r. — Prawo bankowe (2026)` | Złóż w swoim banku pisemną „Dyspozycję wkładem na wypadek śmierci” (Art. 56 Prawa bankowego) na rzecz małżonka, dzieci lub wnuków. |
+| **Priorytet 4: Ponowne Przeliczenie Emerytury i Kapitału Początkowego (Formularz ZUS ERPO)** | Każdy udokumentowany rok pracy sprzed 1999 r., studia wyższe (do 8 lat okresów nieskładkowych) lub urlop wychowawczy podnosi zwaloryzowany kapitał początkowy ponad wskaźnik płacy minimalnej. | Podwyżka emerytury o 180 zł do 620 zł miesięcznie na stałe (oraz wyrównanie za maksymalnie 3 lata wstecz w razie błędu organu rentowego — Art. 133 ustawy FUS). | `Art. 114 oraz Art. 173–175 ustawy o emeryturach i rentach z FUS — ZUS (Formularz ERPO)` | Złóż w ZUS wniosek ERPO wraz z odnalezionymi świadectwami pracy, wpisami w książeczce ubezpieczeniowej (legitymacji) lub zaświadczeniem z uczelni. |
+
+### B. 60-Second Diagnostic Questions (4-Step Decision Tree)
+
+- **1. W jakiej grupie wiekowej lub sytuacji życiowej się znajdujesz?**
+  - 60–65 lat — Przechodzę na emeryturę lub chcę przeliczyć kapitał początkowy
+  - 66–74 lata — Pobieram emeryturę ZUS i sprawdzam nowe dodatki w 2026 roku
+  - Jestem wdową / wdowcem — Chcę połączyć własną emeryturę z rentą rodzinną (Renta Wdowia)
+  - 75+ lat lub wymagane wsparcie zdrowotne — Interesuje mnie Świadczenie Wspierające i bezpieczeństwo konta
+- **2. Jaka jest Twoja obecna sytuacja rodzinna i majątkowa?**
+  - Wdowa / Wdowiec (uprawnienie do renty rodzinnej po zmarłym małżonku — druk ERWD)
+  - Małżeństwo posiadające wspólne lub osobne konta bankowe i oszczędności
+  - Osoba samotna (dzieci lub wnuki jako bliscy — zabezpieczenie konta bez sądu)
+  - Osoba niesamodzielna zdrowotnie (lub opiekun pomagający seniorowi w WZON/ZUS)
+- **3. Jaka jest przybliżona wysokość Twojej miesięcznej emerytury brutto w 2026 r.?**
+  - Do 2 300 zł brutto miesięcznie (w okolicach najniższej emerytury 1 878,91 zł)
+  - Od 2 300 zł do 3 600 zł brutto miesięcznie
+  - Od 3 600 zł do 5 000 zł brutto miesięcznie
+  - Powyżej 5 000 zł brutto (blisko limitu 3-krotności najniższej emerytury: 5 636,73 zł)
+- **4. Którą sprawę chcesz załatwić w pierwszej kolejności?**
+  - Renta Wdowia 2026/2027 (Formularz ERWD): 100% własnej + 15%/25% renty rodzinnej czy odwrotnie?
+  - Świadczenie Wspierające 2026 (Progi WZON 70–100 pkt): Jak uzyskać od 792 zł do 4 353 zł/mies. bez podatku?
+  - Konto w banku po śmierci (Art. 56 dyspozycja wkładem do ~175 000 zł bez sądu i Art. 55a koszty pogrzebu)
+  - Przeliczenie emerytury i kapitału początkowego w ZUS (Formularz ERPO — archiwalne zarobki sprzed 1999 r.)
+
+### C. 🧮 Dostępne Kalkulatory Online 2026 (Polska):
+
+#### 1. 1. Renta Wdowia 2026/2027 (Formularz ERWD : 100% własnej + 15% / 25% renty rodzinnej vs odwrotnie) (`id: pl_calc_1`)
+- **Purpose & Formula Summary:** Sprawdź, który wariant łączenia emerytury i renty rodzinnej daje wyższą wypłatę co miesiąc z uwzględnieniem limitu 3-krotności najniższej emerytury (5 636,73 zł brutto).
+- **Official Legal Reference:** `Art. 95a ustawy FUS · Formularz ZUS ERWD · Limit 2026: 3 × 1 878,91 zł = 5 636,73 zł brutto`
+- **Interactive Input Parameters:**
+  - `ownPension` (Twoja własna emerytura z ZUS brutto (zł/miesiąc):): default `2800 zł` (range `1200` to `6500`, step `100`, presets: `[1879, 2400, 2800, 3600]`)
+  - `spousePension` (Emerytura zmarłego małżonka brutto (podstawa do wyliczenia 85% renty rodzinnej):): default `3600 zł` (range `1200` to `7500`, step `100`, presets: `[2500, 3200, 3600, 4500]`)
+  - `sharePct` (Procent drugiego świadczenia (15% w 2026 r. · 25% od 1 stycznia 2027 r.):): default `15 %` (range `15` to `25`, step `10`, presets: `[15, 25]`)
+
+#### 2. 2. Świadczenie Wspierające 2026 (Progi WZON 70–100 pkt : od 792 zł do 4 353 zł/mies.) (`id: pl_calc_2`)
+- **Purpose & Formula Summary:** Oblicz dokładną miesięczną i roczną kwotę świadczenia wspierającego na rękę (0% PIT) w zależności od liczby punktów w decyzji WZON.
+- **Official Legal Reference:** `Ustawa o świadczeniu wspierającym · 6 progów WZON (70–100 pkt w 2026 r.) · Wniosek ZUS SWN`
+- **Interactive Input Parameters:**
+  - `wzonPoints` (Liczba punktów potrzeby wsparcia w decyzji WZON (70 do 100 pkt):): default `86 pkt` (range `65` to `100`, step `1`, presets: `[72, 77, 82, 86, 92, 96]`)
+  - `currentCareAllowance` (Obecnie pobierany dodatek pielęgnacyjny z ZUS (standardowo ok. 348 zł/mies.):): default `348 zł/mies.` (range `0` to `1500`, step `50`, presets: `[0, 348, 600]`)
+
+#### 3. 3. Konto po śmierci (Art. 56 Prawo bankowe dyspozycja wkładem vs koszty pogrzebu Art. 55a) (`id: pl_calc_3`)
+- **Purpose & Formula Summary:** Porównaj natychmiastową wypłatę oszczędności dla rodziny dzięki dyspozycji wkładem na wypadek śmierci (do ~175 000 zł) i zwrotowi faktur pogrzebowych z zamrożeniem konta.
+- **Official Legal Reference:** `Art. 56 oraz Art. 55a ustawy Prawo bankowe · Zasiłek pogrzebowy ZUS 2026: 7 000 zł`
+- **Interactive Input Parameters:**
+  - `accountSavings` (Oszczędności zgromadzone na koncie bankowym i lokatach (zł):): default `65000 zł` (range `5000` to `280000`, step `5000`, presets: `[25000, 65000, 120000, 175000]`)
+  - `funeralCosts` (Kwota faktur za pogrzeb, trumnę/urnę i opłaty cmentarne (zł — Art. 55a):): default `12000 zł` (range `4000` to `30000`, step `1000`, presets: `[7000, 10000, 12000, 16000]`)
+
+### D. Free Printable Episode Checklists ($0 / 0 € / 0 zł — Large-Print ≥ 16.5 pt PDF)
+
+- **[V01] [Świadczenie Wspierające 2026: Progi 70–100 pkt WZON i Wniosek (0 zł)](https://maicolortizh.gumroad.com/l/swiadczenie-wspierajace-bezplatne?wanted=true)**: Sprawdź 6 progów punktowych WZON (od 792 zł do 4 353 zł/mies. bez podatku PIT) i przygotuj dokumenty.
+- **[V02] [Konto w banku po śmierci: Dyspozycja Art. 56 i Koszty pogrzebu (0 zł)](https://maicolortizh.gumroad.com/l/konto-po-smierci-bezplatne?wanted=true)**: Jak zabezpieczyć do ~175 000–185 000 zł (20x przec. wynagr. GUS) bez sądu spadkowego i zwrot za pogrzeb (Art. 55a).
+- **[V03] [Kiedy złożyć wniosek o emeryturę w ZUS: Lista kontrolna (0 zł)](https://maicolortizh.gumroad.com/l/emerytura-w-czerwcu-bezplatne?wanted=true)**: Najlepsze miesiące na złożenie wniosku w ZUS, waloryzacja składek i tablice dalszego trwania życia GUS.
+- **[V04] [Pieniądze z ZUS dla rodziny i Renta Wdowia ERWD (0 zł)](https://maicolortizh.gumroad.com/l/pieniadze-z-zus-dla-rodziny-bezplatne?wanted=true)**: Porównanie wariantów 100% + 15%/25% (limit 5 636,73 zł brutto), zasiłek pogrzebowy 7 000 zł i dziedziczenie subkonta.
+- **[V05] [Sprawdź przeliczenie emerytury i kapitału początkowego ERPO (0 zł)](https://maicolortizh.gumroad.com/l/przeliczenie-emerytury-bezplatne?wanted=true)**: Jak odzyskać wyższą emeryturę dzięki dokumentom sprzed 1999 r., studiom i urlopowi wychowawczemu.
+
+### E. Complete 2026 Workbook & Action Letters Pack
+
+- **Complete Digital Pack (49 zł):** [Emerytura Jasno 2026 — Pełny Przewodnik Dużą Czcionką + Kalkulator Excel i Web + 10 Gotowych Pism do ZUS i Banku (PDF A4)](https://maicolortizh.gumroad.com/l/emerytura-jasno-pelna-wersja?wanted=true)
+- **Included Deliverables:** Natychmiastowe pobranie · Przewodnik dużą czcionką ≥ 16,5 pt (PDF A4 i DOCX) · Kalkulator 5-arkuszowy Excel (.xlsx) + Aplikacja Web · 10 gotowych wzorów pism do ZUS, WZON, US i Banku
+- **Amazon 16pt Large-Print Paperback (Amazon.pl):** [Emerytura Jasno 2026](https://www.amazon.pl/s?k=Emerytura+Jasno+2026+Liczby+Emerytury) — Oprócz pakietu cyfrowego do natychmiastowego pobrania powyżej (z kalkulatorem Excel i Web), poradnik „Emerytura Jasno 2026” jest dostępny także jako drukowana książka papierowa w dużej czcionce (16 pt) na Amazon.pl:
+
+### F. Official Action Letter Templates Included in the System
+
+- **1. Wniosek uzupełniający do ZUS o ustalenie zbiegu świadczeń — Renta Wdowia i wybór najkorzystniejszego wariantu (Formularz ERWD — Art. 95a ustawy FUS)** — *Wniosek o ustalenie prawa do łączenia świadczeń w zbiegu (Renta Wdowia — druk ZUS ERWD) oraz o wyliczenie i wypłatę wariantu najkorzystniejszego finansowo (Art. 95a ustawy o emeryturach i rentach z FUS)*
+- **2. Wniosek o ponowne przeliczenie emerytury i kapitału początkowego z uwzględnieniem zarobków sprzed 1999 r., studiów i urlopu wychowawczego (Formularz ZUS ERPO)** — *Wniosek o ponowne ustalenie wysokości kapitału początkowego oraz przeliczenie emerytury w trybie art. 114 oraz art. 173–175 ustawy o emeryturach i rentach z FUS (Formularz ZUS ERPO)*
+- **3. Wniosek do WZON o wydanie decyzji ustalającej poziom potrzeby wsparcia (70–100 pkt) oraz informacja do wniosku ZUS SWN (Świadczenie Wspierające 2026)** — *Wniosek o wydanie decyzji ustalającej poziom potrzeby wsparcia (art. 6b³ ustawy o rehabilitacji zawodowej i społecznej) celem uzyskania świadczenia wspierającego w 2026 r.*
+- **4. Dyspozycja wkładem na wypadek śmierci (Art. 56 Prawo bankowe — wypłata do ~175 000 zł bez sądu) oraz wniosek o zwrot kosztów pogrzebu z konta zmarłego (Art. 55a)** — *Oświadczenie w przedmiocie dyspozycji wkładem na wypadek śmierci (Art. 56 ustawy Prawo bankowe) / Wniosek o niezwłoczną wypłatę kosztów pogrzebu z rachunku bankowego (Art. 55a ustawy Prawo bankowe)*
+- **5. Wniosek o wyłączenie z opodatkowania (0% podatku) spadku lub darowizny w najbliższej rodzinie — przypomnienie o 6-miesięcznym terminie zgłoszenia (Druk SD-Z2 — Art. 4a ustawy SD)** — *Zawiadomienie o nabyciu własności rzeczy lub praw majątkowych w grupie zerowej wraz z deklaracją SD-Z2 — całkowite zwolnienie z podatku na podstawie art. 4a ustawy o podatku od spadków i darowizn*
+- **6. Odwołanie od decyzji ZUS do Sądu Okręgowego — Sądu Pracy i Ubezpieczeń Społecznych (składane za pośrednictwem ZUS — 0 zł opłat sądowych)** — *Odwołanie od decyzji Zakładu Ubezpieczeń Społecznych w trybie art. 477⁹ § 1 Kodeksu postępowania cywilnego oraz art. 83 ust. 2 ustawy o systemie ubezpieczeń społecznych (wolne od opłat sądowych — art. 96 ust. 1 pkt 4 u.k.s.c.)*
+
+### G. Legal Disclaimer, Privacy & Impressum
+
+- **⚖️ Ważna informacja prawna (Brak doradztwa prawnego i podatkowego):** Serwis „Liczby Emerytury” to niezależne narzędzie edukacyjne i informacyjne oparte na przepisach obowiązujących w 2026 r. Prezentowane wyliczenia mają charakter wyłącznie orientacyjny i nie stanowią porady prawnej, podatkowej ani oficjalnej decyzji Zakładu Ubezpieczeń Społecznych (ZUS), WZON czy Urzędu Skarbowego. Serwis nie jest powiązany z ZUS ani żadną instytucją państwową.
+- **🔒 Ochrona danych osobowych (RODO):** Wszystkie obliczenia w teście 60-sekundowym oraz w kalkulatorze wykonują się w 100% lokalnie na Twoim urządzeniu (w przeglądarce). Żadne kwoty emerytur ani dane osobowe nie są wysyłane ani zapisywane na naszych serwerach.
+- **📄 Wydawca i Kontakt:** Wydawca: Maicol Ortiz · Digital Publishing & Senior Education · Kontakt / Pomoc: maicolortizh@gmail.com · Stan prawny: przepisy i wskaźniki 2026 r.
+
+---
+
+## 🇺🇸 🇺🇸 United States (Practical Retirement) — Retirement Figures (`/en/`)
+
+- **Canonical URL:** https://maicolortz.github.io/senior-check-2026/en/
+- **Page Title:** Retirement Figures — Free 60-Second Retirement, Social Security & Medicare Check 2026
+- **Meta Description:** Check your 2026 Social Security Provisional Income tax thresholds, claiming age break-even (62 vs 67 vs 70), Roth conversion window, and Medicare IRMAA appeal in 60 seconds.
+- **Hero Headline:** Are You Overpaying Taxes on Social Security or Missing Key 2026 Medicare & RMD Rules?
+- **Privacy Guarantee:** 🔒 100% Private: Your data is calculated on your own device and is never sent to or stored on any server.
+
+### A. 📚 2026 U.S. Retirement, Social Security & Medicare Statutory Reference
+
+Summary of key 2026 IRS, Social Security Administration (SSA), and Medicare thresholds (Provisional Income tax brackets, Age 62 vs. 67 vs. 70 break-even, Age 73 RMDs, and Form SSA-44 IRMAA appeals):
+
+| Rule / Topic (2026) | 2026 Statutory Threshold | Financial Impact | Official Legal Citation | First Concrete Action Step |
+| :--- | :--- | :--- | :--- | :--- |
+| **Focus 1: Defusing the Social Security 'Tax Torpedo' (IRC § 86 Provisional Income Thresholds)** | Provisional Income = AGI + Tax-Exempt Interest + 50% of Social Security. Thresholds: $25,000 / $34,000 (Single) and $32,000 / $44,000 (Married Filing Jointly). Above the second threshold, up to 85% of your Social Security becomes taxable! | $1,400 to $4,200 per year in avoidable federal income taxes by drawing from Roth, cash reserves, or using Qualified Charitable Distributions (QCDs at age 70½+) instead of taxable IRA withdrawals. | `Internal Revenue Code (IRC) § 86 & IRS Publication 915 (2026 Rules)` | Run your Provisional Income numbers in the calculator below and submit IRS Form W-4V or a QCD instruction letter to your IRA custodian. |
+| **Focus 2: Social Security Claiming Age 62 vs. 67 (FRA) vs. 70 Break-Even & Spousal Strategy** | Claiming at 62 permanently reduces your benefit by 30% (to 70% of FRA). Waiting from 67 to 70 adds a guaranteed +8% per year (+24% Delayed Retirement Credits). Exact break-even age: 78.7 years (67 vs. 62) and 82.5 years (70 vs. 67). | $85,000 to $160,000+ in cumulative lifetime and surviving spouse protection if either spouse lives past age 83. | `Social Security Act § 202(q) & § 202(w) — SSA Program Operations Manual System (POMS 2026)` | Compare your exact monthly PIA in the Break-Even Calculator below; if you claimed within the last 12 months and regret it, file Form SSA-521 to withdraw and reset your clock. |
+| **Focus 3: Roth Conversion Safe Window vs. Forced RMDs & Medicare IRMAA Appeal (Form SSA-44)** | SECURE 2.0 Act RMD Starting Age: 73 (born 1951–1959) or 75 (born 1960+). Medicare IRMAA Tier 1 Cliff: MAGI over $106,000 (Single) or $212,000 (Married Filing Jointly) based on a 2-year tax lookback. | $1,040 to $6,200+ per year in Medicare Part B & Part D IRMAA surcharges that can be waived immediately if you retired or experienced a work reduction (Form SSA-44). | `SECURE 2.0 Act (IRC § 401(a)(9)) & 20 CFR § 418.1205 (SSA Form SSA-44 IRMAA Appeal)` | Check your safe Roth conversion headroom below the IRMAA cliff in Module 2, and if SSA used an old high-earning tax year from before you retired, file Form SSA-44 with our cover letter. |
+| **Focus 4: Medicare Hospital 'Observation Status' Trap & Skilled Nursing Coverage** | Medicare Part A only pays for Skilled Nursing Facility (SNF) rehab after 3 consecutive midnights admitted as a formal 'Inpatient' — 'Observation Status' (Outpatient) does NOT count, leaving seniors with $12,000–$30,000 nursing bills. | Up to $209.50/day in SNF coinsurance (days 21–100) and $15,000+ in uncovered rehab stays. | `42 CFR § 412.3 (Two-Midnight Rule) & NOTICE Act (Medicare Outpatient Observation Notice - MOON)` | Use our Hospital Inpatient Reclassification Request Letter and always ask the attending physician to document formal Inpatient Admission before the 3rd midnight. |
+
+### B. 60-Second Diagnostic Questions (4-Step Decision Tree)
+
+- **1. Which age group or retirement stage are you currently in?**
+  - Age 60 to 63 — Deciding whether to claim Social Security at 62 or wait
+  - Age 64 to 67 — Approaching Full Retirement Age (67) and Medicare enrollment
+  - Age 68 to 72 — In the golden tax window before Required Minimum Distributions (RMDs) start at 73
+  - Age 73+ — Taking RMDs and managing taxes, Medicare IRMAA, and survivor benefits
+- **2. What is your federal tax filing status?**
+  - Single / Head of Household
+  - Married Filing Jointly
+  - Widowed / Qualifying Surviving Spouse
+  - Married Filing Separately
+- **3. What is your approximate annual combined income (AGI + 50% of Social Security)?**
+  - Under $25,000 (Single) or Under $32,000 (Married) — 0% Social Security Tax Zone
+  - $25,000 to $44,000 — Right inside the Social Security 'Tax Torpedo' Zone (50% to 85% taxable)
+  - $44,000 to $106,000 (Single) / $212,000 (Married) — Standard Medicare & 85% SS Tax Zone
+  - Over $106,000 (Single) or Over $212,000 (Married) — Medicare IRMAA Surcharge Cliff Zone
+- **4. Which retirement issue do you want to solve first?**
+  - Social Security Provisional Income & Tax Torpedo ($25k/$34k Single, $32k/$44k Married thresholds)
+  - Social Security Claiming Age 62 vs. 67 vs. 70 Break-Even Age & Survivor Protection
+  - Roth Conversion vs. RMD & Medicare IRMAA Surcharge Appeal (Form SSA-44 Life-Changing Event)
+  - Medicare Hospital 'Observation Status' vs. Inpatient 3-Midnight Rule Protection (MOON Notice)
+
+### C. 🧮 Free Interactive 2026 Retirement Calculators (United States):
+
+#### 1. 1. Social Security Provisional Income & Tax Torpedo ($25k/$34k Single · $32k/$44k Married · 0% / 50% / 85% Taxable) (`id: en_calc_1`)
+- **Purpose & Formula Summary:** Calculate your exact IRS Provisional Income, see how much of your Social Security is taxed (0%, 50%, or 85%), and compare the tax savings of shifting $10,000 from taxable IRA withdrawals to Roth/QCD.
+- **Official Legal Reference:** `IRC § 86 · IRS Publication 915 · Thresholds: $25,000 / $34,000 (Single) & $32,000 / $44,000 (Married)`
+- **Interactive Input Parameters:**
+  - `marriedFlag` (Filing Status (0 = Single / Head of Household · 1 = Married Filing Jointly):): default `1 Status (0/1)` (range `0` to `1`, step `1`, presets: `[0, 1]`)
+  - `ssAnnual` (Total Annual Household Social Security Benefits ($/year):): default `32000 $/yr` (range `8000` to `90000`, step `2000`, presets: `[20000, 28000, 32000, 44000]`)
+  - `otherAgi` (Other Taxable Income (IRA/401k withdrawals, pension, interest in $/year):): default `28000 $/yr` (range `0` to `140000`, step `2000`, presets: `[12000, 22000, 28000, 45000]`)
+  - `taxRate` (Your Federal Marginal Tax Bracket (10%, 12%, 22%, or 24%):): default `12 %` (range `10` to `32`, step `2`, presets: `[10, 12, 22, 24]`)
+
+#### 2. 2. Social Security Claiming Age 62 vs. 67 (FRA) vs. 70 Break-Even Calculator (`id: en_calc_2`)
+- **Purpose & Formula Summary:** Compare your monthly check and cumulative lifetime payout at Age 62 (70%), Age 67 (100%), and Age 70 (124%) based on how long you expect to live.
+- **Official Legal Reference:** `Social Security Act § 202(q) & § 202(w) · Full Retirement Age 67 (1960+ Cohort) · +8%/yr Delayed Credits`
+- **Interactive Input Parameters:**
+  - `pia67` (Your Monthly Benefit at Full Retirement Age 67 (PIA in $/month):): default `2400 $/mo` (range `900` to `5000`, step `100`, presets: `[1600, 2000, 2400, 3200]`)
+  - `longevityAge` (Target Life Expectancy Age to Compare Cumulative Total (Years):): default `84 Years Old` (range `72` to `95`, step `1`, presets: `[76, 79, 84, 90]`)
+
+#### 3. 3. Roth Conversion vs. RMD & Medicare IRMAA Surcharge Brackets ($106k Single / $212k Married) (`id: en_calc_3`)
+- **Purpose & Formula Summary:** Find out your mandatory RMD at age 73, how much room you have for a Roth Conversion before hitting the Medicare IRMAA cliff, and how much you save by avoiding IRMAA surcharges.
+- **Official Legal Reference:** `SECURE 2.0 Act (IRC § 401(a)(9)) · IRS Uniform Lifetime Table (26.5 at 73) · Medicare IRMAA (Form SSA-44)`
+- **Interactive Input Parameters:**
+  - `marriedIrmaa` (Filing Status (0 = Single $106k IRMAA Cliff · 1 = Married Jointly $212k Cliff):): default `1 Status (0/1)` (range `0` to `1`, step `1`, presets: `[0, 1]`)
+  - `iraBalance` (Total Pre-Tax Traditional IRA & 401(k) Balance ($):): default `650000 $` (range `100000` to `2500000`, step `50000`, presets: `[300000, 500000, 650000, 1000000]`)
+  - `currentMagi` (Current Annual Modified Adjusted Gross Income (MAGI before RMD/Conversion in $/yr):): default `172000 $/yr` (range `40000` to `300000`, step `5000`, presets: `[85000, 145000, 172000, 205000]`)
+
+### D. Free Printable Episode Checklists ($0 / 0 € / 0 zł — Large-Print ≥ 16.5 pt PDF)
+
+- **[V01] [Social Security Provisional Income & Tax Torpedo Check ($0)](https://maicolortizh.gumroad.com/l/social-security-tax-checklist-free?wanted=true)**: Check the $25,000/$34,000 (Single) and $32,000/$44,000 (Married) IRS thresholds and how to shield benefits.
+- **[V02] [Compare Social Security Claiming Ages: 62 vs. 67 vs. 70 ($0)](https://maicolortizh.gumroad.com/l/social-security-claiming-ages-free?wanted=true)**: See the exact break-even age (78.7 and 82.5 years) and how survivor benefits protect your spouse.
+- **[V03] [Before a Roth Conversion: RMD & Medicare IRMAA Check ($0)](https://maicolortizh.gumroad.com/l/roth-conversion-checklist-free?wanted=true)**: Calculate your safe Roth conversion headroom below the $106k / $212k Medicare IRMAA surcharge cliff.
+- **[V04] [Before a Hospital Bill: Inpatient vs. Observation Status ($0)](https://maicolortizh.gumroad.com/l/medicare-hospital-checklist-free?wanted=true)**: How to protect Medicare Part A Skilled Nursing coverage under the 3-Midnight Rule (MOON Notice).
+- **[V05] [Before You Sign an Annuity: Surrender Charges & Fees Check ($0)](https://maicolortizh.gumroad.com/l/annuity-costs-checklist-free?wanted=true)**: The essential questions to ask in writing before locking retirement savings into a complex annuity.
+
+### E. Complete 2026 Workbook & Action Letters Pack
+
+- **Complete Digital Pack ($19):** [Retirement One Step at a Time (2026 Edition) — Complete Large-Print Guide (86 p.) + Excel & Web Calculators + 12 Action Letters](https://maicolortizh.gumroad.com/l/retirement-one-step-at-a-time?wanted=true)
+- **Included Deliverables:** Instant Download · Large-Print Step-by-Step Guide (≥ 16.5 pt PDF & DOCX) · 5-Tab Excel Calculator (.xlsx) + Web App · 12 Ready-to-Print Action Letters (SSA-44, QCD, SSA-521, SSA-7008, Hospital MOON, IRS Form 5329)
+- **Amazon 16pt Large-Print Paperback (Amazon.com):** [Retirement Clarity 2026](https://www.amazon.com/s?k=Retirement+Clarity+2026+Retirement+Numbers+Notebook) — In addition to the instant digital download above (which includes the interactive Excel & Web calculators), the 16pt Large-Print Paperback Workbook "Retirement Clarity 2026" is also available on Amazon.com:
+
+### F. Official Action Letter Templates Included in the System
+
+- **1. Medicare IRMAA Surcharge Reduction Request due to Life-Changing Event / Work Stoppage (Form SSA-44 Cover Letter)** — *Request for New Initial Determination of Income-Related Monthly Adjustment Amount (IRMAA) Due to Life-Changing Event (Form SSA-44 — 20 CFR § 418.1205)*
+- **2. Qualified Charitable Distribution (QCD) Instruction Letter to IRA Custodian to Lower Provisional Income & Satisfy RMD (IRC § 408(d)(8))** — *Direction for Direct Qualified Charitable Distribution (QCD) from Traditional IRA Pursuant to Internal Revenue Code § 408(d)(8)*
+- **3. Request for Withdrawal of Social Security Application Within 12 Months to Reset Claiming Age (Form SSA-521) or Suspension at FRA** — *Request for Withdrawal of Application for Retirement Benefits Within 12 Months (Form SSA-521 — 20 CFR § 404.640) / Voluntary Benefit Suspension at Full Retirement Age*
+- **4. Request for Correction of Social Security Earnings Record & Missing W-2 Wages (Form SSA-7008 — 20 CFR § 404.822)** — *Formal Request for Correction of Social Security Earnings Record Pursuant to 20 CFR § 404.822 (Form SSA-7008) and Recomputation of Primary Insurance Amount (PIA)*
+- **5. Hospital Inpatient Admission vs. 'Observation Status' Protection Request (Medicare 3-Midnight Skilled Nursing Rule — 42 CFR § 412.3)** — *Urgent Request for Utilization Review and Reclassification from Outpatient Observation Status to Formal Medicare Part A Inpatient Admission (42 CFR § 412.3)*
+- **6. Request for Waiver of 25% IRS Penalty on Missed Required Minimum Distribution (RMD) Due to Reasonable Cause (IRS Form 5329 — IRC § 4974(d))** — *Explanation of Reasonable Cause and Request for Waiver of Excise Tax on Excess Accumulation in Qualified Retirement Plan (IRS Form 5329, Part IX — IRC § 4974(d))*
+
+### G. Legal Disclaimer, Privacy & Impressum
+
+- **⚖️ Important Educational Disclaimer (Not Legal, Tax, CPA, or Financial Advice):** 'Retirement Figures' provides independent educational materials and self-help calculation tools based on published 2026 IRS, Social Security Administration (SSA), and Medicare statutory thresholds. Nothing on this website or in our downloadable guides constitutes personalized financial, investment, legal, tax, or accounting advice. This website is not affiliated with or endorsed by the Social Security Administration (SSA), the Internal Revenue Service (IRS), Medicare (CMS), or any U.S. government agency. Always consult a licensed CPA, enrolled agent, or qualified fiduciary advisor regarding your personal situation.
+- **🔒 100% Client-Side Privacy Notice (CCPA / GDPR):** All numbers entered into the 60-second check and interactive calculator are processed 100% locally in your own device's web browser. We never transmit, collect, or store your personal income or benefit figures on any server.
+- **📄 Publisher & Support Contact:** Published by Maicol Ortiz · Digital Publishing & Senior Education · Reader Support: maicolortizh@gmail.com · Updated for 2026 U.S. statutory thresholds.
+
+---
+
+## 🇳🇱 🇳🇱 Nederland (Vroeger & Familiemomenten / Erfbelasting & Pensioen) — Pensioen & Erfbelasting Helder (`/nl/`)
+
+- **Canonical URL:** https://maicolortz.github.io/senior-check-2026/nl/
+- **Page Title:** Pensioen, AOW & Erfbelasting 2026 — Gratis 60-Seconden Check & Rekenhulp
+- **Meta Description:** Bereken in 60 seconden uw erfbelasting vrijstellingen 2026 (kind € 26.230, schenking € 6.908), uw netto AOW + pensioen (schijfgrens € 40.857) en download uw gratis checklist.
+- **Hero Headline:** Hoeveel Erfbelasting of Inkomstenbelasting op AOW & Pensioen kunt u in 2026 besparen?
+- **Privacy Guarantee:** 🔒 100% Privé (AVG-veilig): Uw gegevens worden uitsluitend op uw eigen apparaat berekend en nooit naar een server verzonden of opgeslagen.
+
+### A. 📚 Wettelijke Vrijstellingen, AOW-Schijven & Rekenhulpen 2026 (Nederland)
+
+Overzicht van de belangrijkste Nederlandse bedragen en vrijstellingen in 2026 (erfbelasting vrijstelling kind & kleinkind € 26.230, schenkvrijstelling € 6.908, AOW schijfgrens € 40.857 en 8-maanden belastingrente):
+
+| Rule / Topic (2026) | 2026 Statutory Threshold | Financial Impact | Official Legal Citation | First Concrete Action Step |
+| :--- | :--- | :--- | :--- | :--- |
+| **Prioriteit 1: Vrijstellingen Schenk- en Erfbelasting 2026 & Het Kleinkind-legaat** | Vrijstelling erfbelasting 2026: Partner € 828.035 | Kind & Kleinkind elk € 26.230 | Jaarlijkse schenkvrijstelling kind: € 6.908/jaar (overige/kleinkind: € 2.769/jaar). Tarief kind: 10% tot € 158.669 belaste erfenis, daarboven 20%. | € 4.500 tot € 18.500 minder erfbelasting voor uw familie door jaarlijks € 6.908 belastingvrij te schenken en in uw testament het kleinkind-legaat (€ 26.230 per kleinkind tegen 0% belasting) op te nemen. | `Successiewet 1956 (Art. 32 & 33) — Belastingdienst Tarieven & Vrijstellingen 2026` | Bereken uw besparing in de rekenhulp hieronder en gebruik onze schenkingsovereenkomst met uitsluitingsclausule (zodat de schenking altijd binnen uw eigen familie blijft). |
+| **Prioriteit 2: AOW & Aanvullend Pensioen Netto 2026 — Voorkom de Dubbele Loonheffingskorting Naheffing** | Eerste belastingschijf AOW-gerechtigden 2026: ca. 19,07% tot € 40.857. Tweede schijf: 37,48%. Algemene heffingskorting + ouderenkorting (€ 2.067 tot inkomen € 45.308). Loonheffingskorting mag maar bij ÉÉN uitkeringsinstantie (SVB óf pensioenfonds) aanstaan! | Voorkomt een onverwachte naheffing van de Belastingdienst van € 1.450 tot € 2.980 per jaar. | `Wet inkomstenbelasting 2001 & Sociale Verzekeringsbank (SVB Bedragen 2026)` | Controleer op uw betaalspecificaties van de SVB en uw pensioenfonds of de loonheffingskorting slechts op één plek op 'JA' staat en stuur zo nodig direct onze wijzigingsbrief. |
+| **Prioriteit 3: De 8-Maandengrens bij Erfbelasting — Voorkom Hoge Belastingrente** | Aangifte erfbelasting moet binnen 8 maanden na de overlijdensdatum binnen zijn. Daarna rekent de Belastingdienst automatisch belastingrente (ca. 6,5% tot 7,5% per jaar) over het te betalen bedrag. | € 900 tot € 3.200 aan onnodige belastingrente bespaard wanneer de woning nog niet verkocht is of de afwikkeling langer duurt. | `Algemene wet inzake rijksbelastingen (Art. 30g AWR) — Belastingdienst Erfbelasting 2026` | Vraag vóór het verstrijken van maand 8 met onze officiële brief een Voorlopige Aanslag Erfbelasting of uitstel met rentestop aan bij de Belastingdienst. |
+| **Prioriteit 4: Vrijgave Uitvaartkosten bij de Bank & Omzetting naar Alleenstaanden-AOW bij de SVB** | Bij overlijden van een partner stijgt het AOW-recht van de achterblijvende partner direct van het gehuwdentarief (ca. € 1.122 bruto/mnd) naar het alleenstaandentarief (ca. € 1.637 bruto/mnd) + vrijgave bankrekening voor uitvaartfacturen. | Ruim € 515 bruto per maand hogere AOW en directe betaling van de uitvaartfacturen zonder geld uit eigen zak voor te schieten. | `Algemene Ouderdomswet (AOW) — SVB & Richtlijn Nederlandse Vereniging van Banken (NVB 2026)` | Gebruik onze brief voor de Nabestaandendesk van de bank en het verzoekschrift voor de Sociale Verzekeringsbank (SVB). |
+
+### B. 60-Second Diagnostic Questions (4-Step Decision Tree)
+
+- **1. In welke leeftijdsgroep of levensfase bevindt u zich?**
+  - 60 tot 66 jaar — Ik bereid mij voor op mijn AOW-leeftijd (67 jaar) en aanvullend pensioen
+  - 67 tot 73 jaar — Ik ontvang AOW en wil netto meer overhouden (loonheffingskorting & schijven)
+  - 74 tot 80 jaar — Ik wil belastingvrij schenken aan kinderen/kleinkinderen en erfbelasting verlagen
+  - 80+ jaar of nabestaande — Ik wil de 8-maandentermijn erfbelasting, AOW-wijziging en bankzaken regelen
+- **2. Hoe ziet uw huishouden en gezinssituatie eruit?**
+  - Alleenstaand (met kinderen en/of kleinkinderen)
+  - Gehuwd of geregistreerd partnerschap / samenwonend (met kinderen/kleinkinderen)
+  - Weduwe / Weduwnaar (langstlevende regeling en alleenstaanden-AOW)
+  - Alleenstaand zonder kinderen (nalatenschap voor neven, nichten, vrienden of goede doelen)
+- **3. Wat is uw geschatte jaarinkomen of het familievermogen (spaargeld + overwaarde woning)?**
+  - Alleen AOW + klein aanvullend pensioen (tot € 40.857 bruto/jaar — lage AOW-belastingschijf 19,07%)
+  - AOW + hoger aanvullend pensioen (boven € 40.857 bruto/jaar — tweede schijf 37,48% & ouderenkorting)
+  - Spaargeld en overwaarde eigen woning tussen € 50.000 en € 250.000
+  - Familievermogen boven € 250.000 (10% en 20% erfbelastingschijven voor de kinderen)
+- **4. Welke vraag wilt u als eerste helder doorgerekend zien?**
+  - Vrijstellingen Schenk- en Erfbelasting 2026 (Kind € 26.230 / Schenking € 6.908 & Kleinkind-legaat)
+  - AOW & Aanvullend Pensioen Netto Vergelijking 2026 (Loonheffingskorting fout voorkomen & schijfgrens € 40.857)
+  - Erfbelasting Aangifte 8-Maanden Termijn (Belastingrente van ~7% voorkomen via Voorlopige Aanslag)
+  - Bankrekening na overlijden (Uitvaartkosten vrijgeven) & SVB omzetting naar Alleenstaanden-AOW
+
+### C. 🧮 Gratis Interactieve Rekenhulpen 2026 (Nederland):
+
+#### 1. 1. Vrijstellingen Schenk- en Erfbelasting 2026 (Kind € 26.230 · Schenking € 6.908 · 10% / 20% Schijven) (`id: nl_calc_1`)
+- **Purpose & Formula Summary:** Vergelijk hoeveel erfbelasting uw kinderen betalen als u niets regelt versus wanneer u gebruikmaakt van de jaarlijkse schenkvrijstelling (€ 6.908/jaar) en de kleinkindvrijstelling (€ 26.230 per kleinkind).
+- **Official Legal Reference:** `Successiewet 1956 · Belastingdienst 2026: Vrijstelling kind/kleinkind € 26.230 · Schenking € 6.908 · Schijfgrens 10%/20%: € 158.669`
+- **Interactive Input Parameters:**
+  - `children` (Aantal kinderen:): default `2 kinderen` (range `1` to `6`, step `1`, presets: `[1, 2, 3, 4]`)
+  - `grandchildren` (Aantal kleinkinderen (elk tot € 26.230 geheel vrijgesteld van erfbelasting!):): default `2 kleinkinderen` (range `0` to `10`, step `1`, presets: `[0, 2, 4, 6]`)
+  - `estateTotal` (Totaal te vererven vermogen (spaargeld + overwaarde eigen woning in €):): default `320000 €` (range `40000` to `1200000`, step `20000`, presets: `[150000, 250000, 320000, 500000]`)
+  - `giftYears` (Aantal jaren waarin u jaarlijks € 6.908 belastingvrij per kind schenkt:): default `5 jaren` (range `1` to `12`, step `1`, presets: `[3, 5, 8, 10]`)
+
+#### 2. 2. AOW & Aanvullend Pensioen Netto Vergelijking 2026 (Schijfgrens € 40.857 & Loonheffingskorting) (`id: nl_calc_2`)
+- **Purpose & Formula Summary:** Bereken uw netto maandinkomen uit AOW + aanvullend pensioen in 2026 en zie direct hoeveel naheffing u voorkomt door de loonheffingskorting op slechts één plek toe te passen.
+- **Official Legal Reference:** `Belastingdienst & SVB 2026 · Schijf 1 AOW (19,07% tot € 40.857) · Schijf 2 (37,48%) · Ouderenkorting € 2.067`
+- **Interactive Input Parameters:**
+  - `livingStatus` (Leefsituatie (0 = Alleenstaand AOW ca. € 1.637/mnd · 1 = Samenwonend/Gehuwd ca. € 1.122/mnd p.p.):): default `0 Status (0/1)` (range `0` to `1`, step `1`, presets: `[0, 1]`)
+  - `extraPension` (Aanvullend pensioen bruto per maand (bijv. ABP, PFZW, PME in €/maand):): default `1200 €/mnd` (range `0` to `4500`, step `100`, presets: `[500, 900, 1200, 2000]`)
+
+#### 3. 3. Aangifte Erfbelasting 8-Maanden Termijn & Belastingrente Voorkomen (2026) (`id: nl_calc_3`)
+- **Purpose & Formula Summary:** Bereken hoeveel belastingrente (~7% per jaar) de erfgenamen besparen door binnen 8 maanden na overlijden een voorlopige aanslag aan te vragen.
+- **Official Legal Reference:** `Art. 30g AWR · Belastingdienst Erfbelasting: 8 maanden rentevrije termijn na overlijden`
+- **Interactive Input Parameters:**
+  - `expectedTax` (Geschatte totale erfbelasting over de nalatenschap (€):): default `22000 €` (range `2000` to `120000`, step `2000`, presets: `[8000, 15000, 22000, 45000]`)
+  - `monthsAfterDeath` (Verwachte duur tot definitieve afwikkeling / verkoop woning (maanden na overlijden):): default `16 maanden` (range `6` to `24`, step `1`, presets: `[8, 12, 16, 20]`)
+
+### D. Free Printable Episode Checklists ($0 / 0 € / 0 zł — Large-Print ≥ 16.5 pt PDF)
+
+- **[V01] [Erfbelasting & Vrijstellingen 2026: Kind (€ 26.230) & Kleinkind Check (€ 0)](https://maicolortizh.gumroad.com/l/familieverhaal-amsterdam-gratis?wanted=true)**: Stapsgewijze checklist (4 p. grote letters) over de vrijstellingen voor partner (€ 828.035), kind en kleinkind (€ 26.230).
+- **[V02] [Netto AOW & Pensioen 2026: Voorkom Dubbele Loonheffingskorting (€ 0)](https://maicolortizh.gumroad.com/l/familieverhaal-amsterdam-gratis?wanted=true)**: Controleer de schijfgrens van € 40.857 (19,07%), de Zvw-bijdrage (5,26%) en zet de loonheffingskorting op slechts 1 uitkering.
+- **[V03] [Belastingvrij Schenken 2026 (€ 6.908/jaar) & Uitsluitingsclausule (€ 0)](https://maicolortizh.gumroad.com/l/familieverhaal-amsterdam-gratis?wanted=true)**: Hoe u jaarlijks € 6.908 per kind en € 2.769 per kleinkind belastingvrij schenkt met schriftelijke uitsluitingsclausule.
+- **[V04] [8-Maanden Termijn & Voorlopige Aanslag: Bespaar ~7% Belastingrente (€ 0)](https://maicolortizh.gumroad.com/l/familieverhaal-amsterdam-gratis?wanted=true)**: Hoe u binnen 8 maanden na overlijden een voorlopige aanslag aanvraagt en hoge belastingrente voorkomt.
+- **[V05] [Bankrekening na Overlijden & Nabestaanden-Checklist 2026 (€ 0)](https://maicolortizh.gumroad.com/l/familieverhaal-amsterdam-gratis?wanted=true)**: Overzicht voor de bank, uitvaartkosten, Verklaring van Erfrecht en alle eerste stappen voor nabestaanden.
+
+### E. Complete 2026 Workbook & Action Letters Pack
+
+- **Complete Digital Pack (17 €):** [Pensioen, AOW & Erfbelasting Helder 2026 — Volledige Gids in Grote Letters (71 p.) + Excel & Web Rekenhulp + 10 Brieven (A4 PDF)](https://maicolortizh.gumroad.com/l/geschiedenis-in-beeld-volledige-versie?wanted=true)
+- **Included Deliverables:** Direct te downloaden · Uitgebreide gids in grote letters ≥ 16,5 pt (71 p. PDF A4 & DOCX) · Excel Rekenhulp (.xlsx) + Web App · 10 kant-en-klare brieven (Schenking met uitsluitingsclausule, Kleinkind-legaat, Loonheffingskorting SVB, Voorlopige Aanslag)
+- **Amazon 16pt Large-Print Paperback (Amazon.nl):** [Pensioen Helder 2026](https://www.amazon.nl/s?k=Pensioen+Helder+2026) — Naast het directe digitale pakket hierboven (inclusief Excel- & Web-rekenhulpen) is het werkboek „Pensioen Helder 2026” ook verkrijgbaar als gedrukt paperback-boek in grote letters (16 pt) via Amazon.nl:
+
+### F. Official Action Letter Templates Included in the System
+
+- **1. Onderhandse Akte van Belastingvrije Schenking 2026 (€ 6.908 kind / € 2.769 kleinkind) inclusief harde Uitsluitingsclausule (Privéclausule)** — *Onderhandse Overeenkomst van Schenking 2026 met Uitsluitingsclausule (Artikel 7:175 BW & Artikel 33 Successiewet 1956)*
+- **2. Instructiebrief aan Notaris voor opname Kleinkind-legaat (€ 26.230 belastingvrij per kleinkind) en Opvullegaat in Testament** — *Verzoek tot opstellen / wijzigen testament: Opname Kleinkind-legaat (Art. 32 lid 1 sub 4° onderdeel c Successiewet 1956) en Fiscaal Opvullegaat*
+- **3. Verzoek aan SVB of Pensioenfonds tot wijziging Loonheffingskorting (Voorkomen van dubbele heffingskorting en Belastingdienst-naheffing)** — *Verzoek tot wijziging toepassing Loonheffingskorting en Ouderenkorting op mijn AOW- / Pensioenuitkering (Wet op de loonbelasting 1964)*
+- **4. Verzoek aan Belastingdienst om Voorlopige Aanslag Erfbelasting binnen 8 maanden (Belastingrente van ~7% stopzetten — Art. 30g AWR)** — *Verzoek om oplegging Voorlopige Aanslag Erfbelasting en uitstel van definitieve aangifte ter voorkoming van belastingrente (Artikel 30g Algemene wet inzake rijksbelastingen)*
+- **5. Verzoek aan de Nabestaandendesk van de Bank tot directe betaling van Uitvaartfacturen uit de rekening van de overledene** — *Verzoek tot rechtstreekse betaling van uitvaartkosten ten laste van de bankrekening van de overledene (Conform richtlijnen Nederlandse Vereniging van Banken)*
+- **6. Melding aan de Sociale Verzekeringsbank (SVB) voor onmiddellijke omzetting naar Alleenstaanden-AOW (70% norm) na overlijden partner** — *Verzoek tot herberekening AOW naar Alleenstaandentarief en uitbetaling Overlijdensuitkering (Algemene Ouderdomswet — AOW)*
+
+### G. Legal Disclaimer, Privacy & Impressum
+
+- **⚖️ Belangrijke Juridische Mededeling (Geen fiscaal, notarieel of financieel advies):** „Pensioen & Erfbelasting Helder” is een onafhankelijk educatief en informatief hulpmiddel op basis van de wettelijke tarieven en vrijstellingen van 2026. De berekeningen dienen uitsluitend ter algemene oriëntatie en vormen geen persoonlijk belastingadvies, financieel advies of notarieel advies. Deze website is niet verbonden aan de Belastingdienst, de Sociale Verzekeringsbank (SVB) of andere overheidsinstanties.
+- **🔒 100% Privacy & Gegevensbescherming (AVG):** Alle gegevens die u invult in de 60-seconden test en de rekenhulp worden voor 100% lokaal in de browser op uw eigen apparaat berekend. Er worden geen financiële of persoonlijke gegevens naar een server verzonden of opgeslagen.
+- **📄 Uitgever & Contact:** Uitgever: Maicol Ortiz · Digital Publishing & Senior Education · Contact / Klantenservice: maicolortizh@gmail.com · Bijgewerkt volgens de Nederlandse cijfers en vrijstellingen van 2026.

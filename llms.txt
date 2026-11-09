@@ -1,0 +1,114 @@
+# Senior Check 2026 — 60-Second Statutory Retirement, Pension, Tax & Estate Calculators (DE · FR · PL · US · NL)
+
+> Independent, 100% client-side (zero-server-storage, DSGVO / RGPD / RODO / AVG / CCPA compliant) statutory retirement, pension, tax, and inheritance diagnostic & interactive calculators updated for 2026 official thresholds across 5 countries: Germany (DRV / KVdR), France (CARSAT / Agirc-Arrco / CSG), Poland (ZUS / Renta Wdowia / WZON), United States (SSA / IRS / Medicare IRMAA), and the Netherlands (SVB / AOW / Belastingdienst Erfbelasting).
+
+- **Last Modified:** `2026-11-09`
+- **Primary Root URL:** https://maicolortz.github.io/senior-check-2026/
+- **Complete Single-Fetch RAG Corpus (`/llms-full.txt`):** https://maicolortz.github.io/senior-check-2026/llms-full.txt
+- **XML Sitemap:** https://maicolortz.github.io/senior-check-2026/sitemap.xml
+- **Architecture:** 100% Client-Side JavaScript (zero server transmission of personal income/pension numbers), Senior UX AAA High-Contrast (`#0F172A` on `#FFFFFF`, `>= 18px–22px` typography, `>= 60px` touch targets).
+
+## 1. Country Portals & Direct Calculator URLs (2026)
+
+- [🇩🇪 Germany — Renten Zahlen (`Rente Klar 2026`)](https://maicolortz.github.io/senior-check-2026/de/): Statutory 2026 pension value (`42,52 € Rentenwert`), early retirement `0,3 %` monthly deduction & `91,8 Jahre` break-even (`§§ 36, 77 SGB VI`), KVdR `9/10-Regel` + `36 Monate` child credit (`§ 5 Abs. 1 Nr. 11 & Abs. 2 SGB V`), `Witwenrente Freibetrag 1.123,38 €` (`§ 97 SGB VI`), and `Mütterrente / § 44 SGB X` review.
+- [🇫🇷 France — Calcul Retraite (`Retraite Clair 2026`)](https://maicolortz.github.io/senior-check-2026/fr/): 2026 `CSG Retraite` RFR brackets (`0 %`, `3,8 %`, `6,6 %`, `8,3 %` & legal smoothing under `CSS Art. L136-8`), `Assurance-Vie` tax allowances before/after age 70 (`152 500 € Art. 990 I CGI` vs `30 500 € Art. 757 B CGI`), inheritance tax allowances (`100 000 €` per child `Art. 779 CGI`), and statutory cap on bank estate fees (`850 € max / 1 %`).
+- [🇵🇱 Poland — Liczby Emerytury (`Emerytura Jasno 2026`)](https://maicolortz.github.io/senior-check-2026/pl/): 2026 `Renta Wdowia (ERWD)` dual-benefit cap (`5 636,73 zł brutto` = `3× najniższa emerytura`, `100 % + 15 % / 25 %` under `Art. 95a FUS`), `Świadczenie Wspierające (WZON)` 6 point thresholds (`70–100 pkt`, `792 zł` to `4 353 zł/mies.` tax-free), bank account disposition upon death (`Art. 56 Prawa bankowego`, up to `20× przec. wynagr. GUS` + `Art. 55a` funeral reimbursement), and `ERPO` pension recalculation (`Art. 114 FUS`).
+- [🇺🇸 United States — Retirement Figures (`Retirement One Step at a Time 2026`)](https://maicolortz.github.io/senior-check-2026/en/): 2026 IRS Social Security `Provisional Income` tax thresholds (`$25,000 / $34,000` Single, `$32,000 / $44,000` Married Filing Jointly under `IRC § 86`), claiming age break-even (`Age 62 vs. 67 vs. 70`, `78.7` and `82.5 years`), `Medicare IRMAA` surcharge brackets (`$106,000 / $212,000` & `Form SSA-44` life-changing event appeal), and `Age 73 RMD / Qualified Charitable Distributions (QCD)` (`IRC § 408(d)(8)`).
+- [🇳🇱 Netherlands — Pensioen & Erfbelasting Helder (`Pensioen Helder 2026`)](https://maicolortz.github.io/senior-check-2026/nl/): 2026 `Erfbelasting` exemptions (`Successiewet Art. 32`: partner `€ 828.035`, child & grandchild `€ 26.230`), tax-free annual gifts (`Schenkvrijstelling Art. 33`: child `€ 6.908`, grandchild/other `€ 2.769` + `uitsluitingsclausule`), `AOW + Pensioen` Box 1 tax bracket (`€ 40.857` at `19,07 %` + `Zvw 5,26 %`, preventing double `loonheffingskorting`), and the 8-month `Voorlopige Aanslag` window to avoid `~7 % Belastingrente`.
+
+## 2. 2026 Statutory Ground-Truth Table (Citation-Ready Summary)
+
+| Country | Key 2026 Statutory Rule / Indicator | 2026 Statutory Threshold / Value | Official Legal Citation |
+| :--- | :--- | :--- | :--- |
+| 🇩🇪 DE | Aktueller Rentenwert & Vorzeitige Rente | `42,52 € / EP` · `0,3 %/Mon.` deduction (Break-even `91,8 J.`) | `§§ 36, 68, 77, 187a SGB VI` |
+| 🇩🇪 DE | KVdR 9/10-Regel & Kinder-Bonus | `90 %` in 2nd half of working life + `+36 Monate` per child | `§ 5 Abs. 1 Nr. 11 & Abs. 2 S. 3 SGB V` |
+| 🇩🇪 DE | Witwenrente Einkommensanrechnung | `1.123,38 € netto` Freibetrag (`26,4 × 42,52 €`) + `14 %` Pauschalabzug | `§ 97 SGB VI, § 18b SGB IV` |
+| 🇫🇷 FR | Barème CSG Retraite & Lissage Légal | `0 %`, `3,8 %`, `6,6 %`, `8,3 %` by RFR (`< 16 755 €` exonéré, 1 part) | `Code de la sécurité sociale Art. L136-8` |
+| 🇫🇷 FR | Assurance-Vie & Abattement Succession | `152 500 €` (< 70 ans) vs `30 500 €` (≥ 70 ans) · `100 000 €`/enfant | `CGI Art. 990 I, Art. 757 B, Art. 779` |
+| 🇫🇷 FR | Plafond Frais Bancaires de Succession | Max `1 %` of assets, capped at `850 €` (`0 €` under `5 910 €`) | `Code monétaire et financier Art. L312-1-4-1` |
+| 🇵🇱 PL | Renta Wdowia (Zbieg Świadczeń ERWD) | Limit `5 636,73 zł brutto` (`3× 1 878,91 zł`) · `100 % + 15 %/25 %` | `Art. 95a Ustawy o emeryturach i rentach z FUS` |
+| 🇵🇱 PL | Świadczenie Wspierające (WZON) | `70–100 pkt` (`40 %` to `220 %` renty socjalnej: `792 zł – 4 353 zł`) | `Ustawa z dnia 7 lipca 2023 r. o świadczeniu wspierającym` |
+| 🇵🇱 PL | Dyspozycja wkładem na wypadek śmierci | Up to `20× przec. wynagr. GUS` (~`175 000–185 000 zł`) outside probate | `Art. 56 & Art. 55a Prawa bankowego` |
+| 🇺🇸 US | Social Security Provisional Income | `$25,000 / $34,000` (Single) · `$32,000 / $44,000` (Married Joint) | `Internal Revenue Code (IRC) § 86` |
+| 🇺🇸 US | Medicare IRMAA Surcharge & Appeal | `$106,000` (Single) / `$212,000` (Married) 2-year MAGI lookback | `42 U.S.C. § 1395r(i) · Form SSA-44` |
+| 🇺🇸 US | RMD Age 73 & Charitable QCD | Age `73` mandatory withdrawal · up to `$108,000` tax-free QCD | `IRC § 401(a)(9) & IRC § 408(d)(8)` |
+| 🇳🇱 NL | Erfbelasting Vrijstellingen 2026 | Partner `€ 828.035` · Kind & Kleinkind `€ 26.230` (`10 % / 18 %`) | `Successiewet 1956 Art. 32 & Art. 24` |
+| 🇳🇱 NL | Schenkvrijstelling 2026 | Kind `€ 6.908/jaar` · Kleinkind / Derden `€ 2.769/jaar` | `Successiewet 1956 Art. 33` |
+| 🇳🇱 NL | AOW + Pensioen Schijf 1 & Zvw | Schijf 1 up to `€ 40.857` (`19,07 %`) + `Zvw 5,26 %` (1× korting) | `Wet IB 2001 · SVB / Belastingdienst 2026` |
+
+## 3. All 15 Interactive Live Calculators (3 per Country)
+
+### 🇩🇪 🇩🇪 Deutschland (Rente Klar) — [Renten Zahlen](https://maicolortz.github.io/senior-check-2026/de/)
+1. **1. Rente mit 63 vs. 67 (Abschlag 0,3%/Monat · Rentenwert 42,52 € · Break-even Alter)** (`de_calc_1`): Berechnen Sie Ihren exakten Monatsbetrag, den Netto-Vorsprung vor dem 67. Lebensjahr und das Lebensalter, ab dem die Regelaltersrente die Frührente überholt. — *Legal Basis: §§ 36, 77, 187a SGB VI · Aktueller Rentenwert 2026: 42,52 € je Entgeltpunkt*
+2. **2. 9/10-Regel der KVdR (Erwerbsleben · +36 Monate je Kind · Ersparnis vs. freiwillige GKV)** (`de_calc_2`): Prüfen Sie sofort, ob Sie mit dem Kinder-Bonus (§ 5 Abs. 2 SGB V: pauschal +3 Jahre je Kind) die 90 %-Hürde für die günstige Pflichtversicherung der Rentner knacken. — *Legal Basis: § 5 Abs. 1 Nr. 11 & Abs. 2 Satz 3 SGB V · Formular R0810 (Meldung zur KVdR)*
+3. **3. Witwenrente Einkommensanrechnung (§ 97 SGB VI · Freibetrag 2026: 1.123,38 €)** (`de_calc_3`): Berechnen Sie Ihre auszahlbare Witwen-/Witwerrente inklusive 14 % Pauschalabzug auf die eigene Rente und dem neuen Freibetrag von 1.123,38 €. — *Legal Basis: § 97 SGB VI i.V.m. § 18b SGB IV · Freibetrag 2026: 1.123,38 € (+ 238,29 € je Kind)*
+
+### 🇫🇷 🇫🇷 France (Retraite Clair) — [Calcul Retraite](https://maicolortz.github.io/senior-check-2026/fr/)
+1. **1. Seuils de CSG Retraite 2026 (RFR & Parts fiscales : 0 % · 3,8 % · 6,6 % · 8,3 %)** (`fr_calc_1`): Vérifiez votre tranche officielle de prélèvements sociaux (CSG + CRDS + CASA) en 2026 et calculez l'écart exact en euros avec le seuil inférieur. — *Legal Basis: Art. L. 136-8 du Code de la sécurité sociale · Barème officiel Assurance Retraite 2026*
+2. **2. Abattements Succession & Assurance-Vie (100 000 €/enfant · 152 500 € avant 70 ans vs 30 500 € après 70 ans)** (`fr_calc_2`): Comparez les droits de succession payés par vos enfants selon que vous utilisez les abattements avant 70 ans (Art. 990 I) ou après 70 ans (Art. 757 B). — *Legal Basis: Articles 779, 790 G, 990 I et 757 B du Code général des impôts (CGI 2026)*
+3. **3. Frais bancaires après décès & Déblocage obsèques (Plafond 1 % / 850 € & 5 910 €)** (`fr_calc_3`): Calculez le plafond légal strict des frais bancaires de succession en 2026 et la somme immédiatement déblocable pour payer les obsèques sans notaire. — *Legal Basis: Loi n° 2025-127 (plafonnement 1 % max 850 €) & Art. L. 312-1-4 Code monétaire et financier (5 910 €)*
+
+### 🇵🇱 🇵🇱 Polska (Emerytura Jasno) — [Liczby Emerytury](https://maicolortz.github.io/senior-check-2026/pl/)
+1. **1. Renta Wdowia 2026/2027 (Formularz ERWD : 100% własnej + 15% / 25% renty rodzinnej vs odwrotnie)** (`pl_calc_1`): Sprawdź, który wariant łączenia emerytury i renty rodzinnej daje wyższą wypłatę co miesiąc z uwzględnieniem limitu 3-krotności najniższej emerytury (5 636,73 zł brutto). — *Legal Basis: Art. 95a ustawy FUS · Formularz ZUS ERWD · Limit 2026: 3 × 1 878,91 zł = 5 636,73 zł brutto*
+2. **2. Świadczenie Wspierające 2026 (Progi WZON 70–100 pkt : od 792 zł do 4 353 zł/mies.)** (`pl_calc_2`): Oblicz dokładną miesięczną i roczną kwotę świadczenia wspierającego na rękę (0% PIT) w zależności od liczby punktów w decyzji WZON. — *Legal Basis: Ustawa o świadczeniu wspierającym · 6 progów WZON (70–100 pkt w 2026 r.) · Wniosek ZUS SWN*
+3. **3. Konto po śmierci (Art. 56 Prawo bankowe dyspozycja wkładem vs koszty pogrzebu Art. 55a)** (`pl_calc_3`): Porównaj natychmiastową wypłatę oszczędności dla rodziny dzięki dyspozycji wkładem na wypadek śmierci (do ~175 000 zł) i zwrotowi faktur pogrzebowych z zamrożeniem konta. — *Legal Basis: Art. 56 oraz Art. 55a ustawy Prawo bankowe · Zasiłek pogrzebowy ZUS 2026: 7 000 zł*
+
+### 🇺🇸 🇺🇸 United States (Practical Retirement) — [Retirement Figures](https://maicolortz.github.io/senior-check-2026/en/)
+1. **1. Social Security Provisional Income & Tax Torpedo ($25k/$34k Single · $32k/$44k Married · 0% / 50% / 85% Taxable)** (`en_calc_1`): Calculate your exact IRS Provisional Income, see how much of your Social Security is taxed (0%, 50%, or 85%), and compare the tax savings of shifting $10,000 from taxable IRA withdrawals to Roth/QCD. — *Legal Basis: IRC § 86 · IRS Publication 915 · Thresholds: $25,000 / $34,000 (Single) & $32,000 / $44,000 (Married)*
+2. **2. Social Security Claiming Age 62 vs. 67 (FRA) vs. 70 Break-Even Calculator** (`en_calc_2`): Compare your monthly check and cumulative lifetime payout at Age 62 (70%), Age 67 (100%), and Age 70 (124%) based on how long you expect to live. — *Legal Basis: Social Security Act § 202(q) & § 202(w) · Full Retirement Age 67 (1960+ Cohort) · +8%/yr Delayed Credits*
+3. **3. Roth Conversion vs. RMD & Medicare IRMAA Surcharge Brackets ($106k Single / $212k Married)** (`en_calc_3`): Find out your mandatory RMD at age 73, how much room you have for a Roth Conversion before hitting the Medicare IRMAA cliff, and how much you save by avoiding IRMAA surcharges. — *Legal Basis: SECURE 2.0 Act (IRC § 401(a)(9)) · IRS Uniform Lifetime Table (26.5 at 73) · Medicare IRMAA (Form SSA-44)*
+
+### 🇳🇱 🇳🇱 Nederland (Vroeger & Familiemomenten / Erfbelasting & Pensioen) — [Pensioen & Erfbelasting Helder](https://maicolortz.github.io/senior-check-2026/nl/)
+1. **1. Vrijstellingen Schenk- en Erfbelasting 2026 (Kind € 26.230 · Schenking € 6.908 · 10% / 20% Schijven)** (`nl_calc_1`): Vergelijk hoeveel erfbelasting uw kinderen betalen als u niets regelt versus wanneer u gebruikmaakt van de jaarlijkse schenkvrijstelling (€ 6.908/jaar) en de kleinkindvrijstelling (€ 26.230 per kleinkind). — *Legal Basis: Successiewet 1956 · Belastingdienst 2026: Vrijstelling kind/kleinkind € 26.230 · Schenking € 6.908 · Schijfgrens 10%/20%: € 158.669*
+2. **2. AOW & Aanvullend Pensioen Netto Vergelijking 2026 (Schijfgrens € 40.857 & Loonheffingskorting)** (`nl_calc_2`): Bereken uw netto maandinkomen uit AOW + aanvullend pensioen in 2026 en zie direct hoeveel naheffing u voorkomt door de loonheffingskorting op slechts één plek toe te passen. — *Legal Basis: Belastingdienst & SVB 2026 · Schijf 1 AOW (19,07% tot € 40.857) · Schijf 2 (37,48%) · Ouderenkorting € 2.067*
+3. **3. Aangifte Erfbelasting 8-Maanden Termijn & Belastingrente Voorkomen (2026)** (`nl_calc_3`): Bereken hoeveel belastingrente (~7% per jaar) de erfgenamen besparen door binnen 8 maanden na overlijden een voorlopige aanslag aan te vragen. — *Legal Basis: Art. 30g AWR · Belastingdienst Erfbelasting: 8 maanden rentevrije termijn na overlijden*
+
+## 4. Free 2026 Printable Checklists ($0 / 0 € / 0 zł — Large-Print ≥ 16.5 pt PDF)
+
+### 🇩🇪 Renten Zahlen (DE)
+- **[V01] [Rente mit 63 oder 67: Abschlag- & Break-even-Rechner (0 €)](https://maicolortizh.gumroad.com/l/rente-63-oder-67-rechner-gratis?wanted=true)**: Berechnen Sie den 0,3 %-Abschlag pro Monat, Ihren Netto-Vorsprung vor 67 und das genaue Überhol-Alter.
+- **[V02] [Rente im Ausland: Checkliste Krankenversicherung & Steuer (0 €)](https://maicolortizh.gumroad.com/l/rente-im-ausland-checkliste-gratis?wanted=true)**: Was Sie vor einem längeren Auslandsaufenthalt oder Umzug bei DRV, KVdR und Finanzamt prüfen müssen.
+- **[V03] [KVdR 9/10-Regel & +36 Monate Kinder-Bonus Check (0 €)](https://maicolortizh.gumroad.com/l/kvdr-9-10-regel-check-gratis?wanted=true)**: So zählen 3 Jahre pauschal je Kind (§ 5 Abs. 2 SGB V) für die günstige Pflichtversicherung der Rentner.
+- **[V04] [Mütterrente, Kindererziehung & Pflege-Punkte Check (0 €)](https://maicolortizh.gumroad.com/l/muetterrente-minijob-check-gratis?wanted=true)**: Prüfen Sie fehlende Entgeltpunkte im Versicherungsverlauf (V0100 / V0800) und § 44 SGB X Nachzahlung.
+- **[V05] [Witwenrente Freibetrag 2026 (1.123,38 €) & Steuer-Check (0 €)](https://maicolortizh.gumroad.com/l/witwenrente-steuer-check-gratis?wanted=true)**: Prüfen Sie den 14 %-Pauschalabzug (§ 18b SGB IV) und die Einkommensanrechnung nach § 97 SGB VI.
+
+### 🇫🇷 Calcul Retraite (FR)
+- **[V01] [Seuils CSG Retraite 2026 : Barème RFR & Lissage Légal (0 €)](https://maicolortizh.gumroad.com/l/seuils-csg-retraite-gratuit?wanted=true)**: Vérifiez votre tranche (0 %, 3,8 %, 6,6 %, 8,3 %) selon votre RFR et vos parts fiscales.
+- **[V02] [Après un décès : Démarches, Frais bancaires (max 850 €) & Obsèques (0 €)](https://maicolortizh.gumroad.com/l/apres-un-deces-avant-de-vendre-gratuit?wanted=true)**: Comment débloquer jusqu'à 5 910 € pour les obsèques et appliquer le plafond légal de 1 % / 850 €.
+- **[V03] [Épargne & Assurance-Vie : Avant 70 ans (152 500 €) vs Après 70 ans (30 500 €) — Guide 0 €](https://maicolortizh.gumroad.com/l/epargne-apres-60-ans-gratuit?wanted=true)**: Protégez votre épargne et comparez les abattements de 100 000 € par enfant, 152 500 € (Art. 990 I) et 30 500 € (Art. 757 B).
+- **[V04] [Protéger le logement familial & les droits du conjoint survivant (0 €)](https://maicolortizh.gumroad.com/l/logement-apres-un-deces-gratuit?wanted=true)**: Droit viager au logement, usufruit, pension de réversion (54 % CNAV / 60 % Agirc-Arrco).
+- **[V05] [Vérifier son Relevé de Carrière (RIS) : Trimestres enfants & oublis (0 €)](https://maicolortizh.gumroad.com/l/verifier-sa-retraite-gratuit?wanted=true)**: Repérez les trimestres et points Agirc-Arrco oubliés avant ou après la liquidation de votre retraite.
+
+### 🇵🇱 Liczby Emerytury (PL)
+- **[V01] [Świadczenie Wspierające 2026: Progi 70–100 pkt WZON i Wniosek (0 zł)](https://maicolortizh.gumroad.com/l/swiadczenie-wspierajace-bezplatne?wanted=true)**: Sprawdź 6 progów punktowych WZON (od 792 zł do 4 353 zł/mies. bez podatku PIT) i przygotuj dokumenty.
+- **[V02] [Konto w banku po śmierci: Dyspozycja Art. 56 i Koszty pogrzebu (0 zł)](https://maicolortizh.gumroad.com/l/konto-po-smierci-bezplatne?wanted=true)**: Jak zabezpieczyć do ~175 000–185 000 zł (20x przec. wynagr. GUS) bez sądu spadkowego i zwrot za pogrzeb (Art. 55a).
+- **[V03] [Kiedy złożyć wniosek o emeryturę w ZUS: Lista kontrolna (0 zł)](https://maicolortizh.gumroad.com/l/emerytura-w-czerwcu-bezplatne?wanted=true)**: Najlepsze miesiące na złożenie wniosku w ZUS, waloryzacja składek i tablice dalszego trwania życia GUS.
+- **[V04] [Pieniądze z ZUS dla rodziny i Renta Wdowia ERWD (0 zł)](https://maicolortizh.gumroad.com/l/pieniadze-z-zus-dla-rodziny-bezplatne?wanted=true)**: Porównanie wariantów 100% + 15%/25% (limit 5 636,73 zł brutto), zasiłek pogrzebowy 7 000 zł i dziedziczenie subkonta.
+- **[V05] [Sprawdź przeliczenie emerytury i kapitału początkowego ERPO (0 zł)](https://maicolortizh.gumroad.com/l/przeliczenie-emerytury-bezplatne?wanted=true)**: Jak odzyskać wyższą emeryturę dzięki dokumentom sprzed 1999 r., studiom i urlopowi wychowawczemu.
+
+### 🇺🇸 Retirement Figures (EN)
+- **[V01] [Social Security Provisional Income & Tax Torpedo Check ($0)](https://maicolortizh.gumroad.com/l/social-security-tax-checklist-free?wanted=true)**: Check the $25,000/$34,000 (Single) and $32,000/$44,000 (Married) IRS thresholds and how to shield benefits.
+- **[V02] [Compare Social Security Claiming Ages: 62 vs. 67 vs. 70 ($0)](https://maicolortizh.gumroad.com/l/social-security-claiming-ages-free?wanted=true)**: See the exact break-even age (78.7 and 82.5 years) and how survivor benefits protect your spouse.
+- **[V03] [Before a Roth Conversion: RMD & Medicare IRMAA Check ($0)](https://maicolortizh.gumroad.com/l/roth-conversion-checklist-free?wanted=true)**: Calculate your safe Roth conversion headroom below the $106k / $212k Medicare IRMAA surcharge cliff.
+- **[V04] [Before a Hospital Bill: Inpatient vs. Observation Status ($0)](https://maicolortizh.gumroad.com/l/medicare-hospital-checklist-free?wanted=true)**: How to protect Medicare Part A Skilled Nursing coverage under the 3-Midnight Rule (MOON Notice).
+- **[V05] [Before You Sign an Annuity: Surrender Charges & Fees Check ($0)](https://maicolortizh.gumroad.com/l/annuity-costs-checklist-free?wanted=true)**: The essential questions to ask in writing before locking retirement savings into a complex annuity.
+
+### 🇳🇱 Pensioen & Erfbelasting Helder (NL)
+- **[V01] [Erfbelasting & Vrijstellingen 2026: Kind (€ 26.230) & Kleinkind Check (€ 0)](https://maicolortizh.gumroad.com/l/familieverhaal-amsterdam-gratis?wanted=true)**: Stapsgewijze checklist (4 p. grote letters) over de vrijstellingen voor partner (€ 828.035), kind en kleinkind (€ 26.230).
+- **[V02] [Netto AOW & Pensioen 2026: Voorkom Dubbele Loonheffingskorting (€ 0)](https://maicolortizh.gumroad.com/l/familieverhaal-amsterdam-gratis?wanted=true)**: Controleer de schijfgrens van € 40.857 (19,07%), de Zvw-bijdrage (5,26%) en zet de loonheffingskorting op slechts 1 uitkering.
+- **[V03] [Belastingvrij Schenken 2026 (€ 6.908/jaar) & Uitsluitingsclausule (€ 0)](https://maicolortizh.gumroad.com/l/familieverhaal-amsterdam-gratis?wanted=true)**: Hoe u jaarlijks € 6.908 per kind en € 2.769 per kleinkind belastingvrij schenkt met schriftelijke uitsluitingsclausule.
+- **[V04] [8-Maanden Termijn & Voorlopige Aanslag: Bespaar ~7% Belastingrente (€ 0)](https://maicolortizh.gumroad.com/l/familieverhaal-amsterdam-gratis?wanted=true)**: Hoe u binnen 8 maanden na overlijden een voorlopige aanslag aanvraagt en hoge belastingrente voorkomt.
+- **[V05] [Bankrekening na Overlijden & Nabestaanden-Checklist 2026 (€ 0)](https://maicolortizh.gumroad.com/l/familieverhaal-amsterdam-gratis?wanted=true)**: Overzicht voor de bank, uitvaartkosten, Verklaring van Erfrecht en alle eerste stappen voor nabestaanden.
+
+## 5. Complete 2026 Senior Workbooks & Action Letter Systems (Digital + Amazon Large-Print Paperback)
+
+- **🇩🇪 [Rente Klar 2026 — Großdruck-Handbuch (88 S.) + Excel- & Web-Rechner + 10 Musterschreiben (DIN A4) (19 €)](https://maicolortizh.gumroad.com/l/rente-klar-vollversion?wanted=true)** — Sofort-Download nach dem Kauf · Großdruck-Handbuch (PDF A4, ≥ 16,5 pt) · 5-Blatt Excel-Rechner (.xlsx) + Web-App · 10 druckfertige Musterschreiben (§ 44 SGB X, V0210, R0810, § 97 SGB VI)
+  - 📖 **Amazon Large-Print Paperback (Amazon.de):** [Rente Klar 2026](https://www.amazon.de/s?k=Rente+Klar+2026+Renten+Zahlen)
+- **🇫🇷 [Retraite Clair 2026 — Guide Grands Caractères (84 p.) + Simulateurs Excel & Web + 10 Lettres Prêtes à Imprimer (PDF A4) (19 €)](https://maicolortizh.gumroad.com/l/retraite-clair-version-complete?wanted=true)** — Accès immédiat · Guide pratique A4 en grands caractères ≥ 16,5 pt (PDF & DOCX) · Classeur Excel 5 onglets (.xlsx) + Simulateur Web · 10 modèles de courriers (CARSAT, Agirc-Arrco, Banque, Impôts)
+  - 📖 **Amazon Large-Print Paperback (Amazon.fr):** [Retraite Clair 2026](https://www.amazon.fr/s?k=Retraite+Clair+2026+Calcul+Retraite)
+- **🇵🇱 [Emerytura Jasno 2026 — Pełny Przewodnik Dużą Czcionką + Kalkulator Excel i Web + 10 Gotowych Pism do ZUS i Banku (PDF A4) (49 zł)](https://maicolortizh.gumroad.com/l/emerytura-jasno-pelna-wersja?wanted=true)** — Natychmiastowe pobranie · Przewodnik dużą czcionką ≥ 16,5 pt (PDF A4 i DOCX) · Kalkulator 5-arkuszowy Excel (.xlsx) + Aplikacja Web · 10 gotowych wzorów pism do ZUS, WZON, US i Banku
+  - 📖 **Amazon Large-Print Paperback (Amazon.pl):** [Emerytura Jasno 2026](https://www.amazon.pl/s?k=Emerytura+Jasno+2026+Liczby+Emerytury)
+- **🇺🇸 [Retirement One Step at a Time (2026 Edition) — Complete Large-Print Guide (86 p.) + Excel & Web Calculators + 12 Action Letters ($19)](https://maicolortizh.gumroad.com/l/retirement-one-step-at-a-time?wanted=true)** — Instant Download · Large-Print Step-by-Step Guide (≥ 16.5 pt PDF & DOCX) · 5-Tab Excel Calculator (.xlsx) + Web App · 12 Ready-to-Print Action Letters (SSA-44, QCD, SSA-521, SSA-7008, Hospital MOON, IRS Form 5329)
+  - 📖 **Amazon Large-Print Paperback (Amazon.com):** [Retirement Clarity 2026](https://www.amazon.com/s?k=Retirement+Clarity+2026+Retirement+Numbers+Notebook)
+- **🇳🇱 [Pensioen, AOW & Erfbelasting Helder 2026 — Volledige Gids in Grote Letters (71 p.) + Excel & Web Rekenhulp + 10 Brieven (A4 PDF) (17 €)](https://maicolortizh.gumroad.com/l/geschiedenis-in-beeld-volledige-versie?wanted=true)** — Direct te downloaden · Uitgebreide gids in grote letters ≥ 16,5 pt (71 p. PDF A4 & DOCX) · Excel Rekenhulp (.xlsx) + Web App · 10 kant-en-klare brieven (Schenking met uitsluitingsclausule, Kleinkind-legaat, Loonheffingskorting SVB, Voorlopige Aanslag)
+  - 📖 **Amazon Large-Print Paperback (Amazon.nl):** [Pensioen Helder 2026](https://www.amazon.nl/s?k=Pensioen+Helder+2026)
