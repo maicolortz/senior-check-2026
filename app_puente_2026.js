@@ -456,6 +456,7 @@ const SENIOR_DATA = {
     ],
     "bridge": {
       "channelName": "Renten Zahlen",
+      "nationalTopBadge": "🇩🇪 Deutschland (DRV / KVdR / Rente 2026)",
       "pageTitle": "Renten Zahlen — Kostenloser 60-Sekunden-Ruhestands-Check & Rechner 2026",
       "metaDescription": "Prüfen Sie in 60 Sekunden Ihre Rente, KVdR 9/10-Regel, Mütterrente und Witwenrente anhand der gesetzlichen Werte 2026 (42,52 € Rentenwert). 100% kostenlos & DSGVO-privat.",
       "heroBadge": "🇩🇪 Unabhängiger Ruhestands- & Behörden-Schnelltest 2026 (Renten Zahlen)",
@@ -483,9 +484,23 @@ const SENIOR_DATA = {
       "step2Title": "Rente Klar 2026 — Großdruck-Handbuch (88 S.) + Excel- & Web-Rechner + 10 Musterschreiben (DIN A4)",
       "step2Subtitle": "Für alle, die ihren Rentenbescheid, die KVdR-9/10-Regel, die Mütterrente oder die Witwenrente strukturiert gegenüber DRV und Krankenkasse prüfen und einreichen möchten.",
       "paidPackPrice": "19 €",
-      "paidPackUrl": "https://maicolortizh.gumroad.com/l/rente-klar-vollversion",
+      "paidPackUrl": "https://maicolortizh.gumroad.com/l/rente-klar-vollversion?wanted=true",
       "paidPackBtnText": "📘 Komplettpaket „Rente Klar 2026“ jetzt sichern (19 €) →",
       "paidPackGuarantee": "Sofort-Download nach dem Kauf · Großdruck-Handbuch (PDF A4, ≥ 16,5 pt) · 5-Blatt Excel-Rechner (.xlsx) + Web-App · 10 druckfertige Musterschreiben (§ 44 SGB X, V0210, R0810, § 97 SGB VI)",
+      "paymentMethodsBadge": "💳 Sichere Zahlungsmethoden: PayPal · Klarna · SEPA / Kreditkarte (Visa / Mastercard) · Apple Pay / Google Pay",
+      "amazonPrintOffer": {
+        "bookTitle": "Rente Klar 2026",
+        "marketplace": "Amazon.de",
+        "title": "📖 Lieber als gedrucktes Buch in der Hand? (Großdruck-Taschenbuch ≥ 16 pt)",
+        "desc": "Neben dem digitalen Sofort-Download oben (inkl. Excel- & Web-Rechner) ist das Arbeitsbuch „Rente Klar 2026“ auch als gedrucktes Großdruck-Taschenbuch (16 pt Schriftgröße, zum Ausfüllen am Küchentisch) auf Amazon.de erhältlich:",
+        "btnText": "📦 Gedrucktes Taschenbuch „Rente Klar 2026“ auf Amazon.de ansehen →",
+        "url": "https://www.amazon.de/s?k=Rente+Klar+2026+Renten+Zahlen"
+      },
+      "seoReference": {
+        "sectionTitle": "📚 Gesetzliche Werte, Freibeträge & Renten-Rechner 2026 im Überblick (Deutschland)",
+        "sectionIntro": "Zusammenfassung der wichtigsten gesetzlichen Schwellenwerte 2026 (aktueller Rentenwert 42,52 €, KVdR 9/10-Regel, Witwenrente Freibetrag 1.123,38 € und Mütterrente):",
+        "calculatorsTitle": "🧮 Verfügbare Online-Rechner für Deutschland (2026):"
+      },
       "comparisonHeaders": [
         "Was Sie erhalten",
         "Gratis-Check (0 €)",
@@ -533,35 +548,35 @@ const SENIOR_DATA = {
           "code": "V01",
           "title": "Rente mit 63 oder 67: Abschlag- & Break-even-Rechner (0 €)",
           "desc": "Berechnen Sie den 0,3 %-Abschlag pro Monat, Ihren Netto-Vorsprung vor 67 und das genaue Überhol-Alter.",
-          "url": "https://maicolortizh.gumroad.com/l/rente-63-oder-67-rechner-gratis"
+          "url": "https://maicolortizh.gumroad.com/l/rente-63-oder-67-rechner-gratis?wanted=true"
         },
         {
           "ep": 2,
           "code": "V02",
           "title": "Rente im Ausland: Checkliste Krankenversicherung & Steuer (0 €)",
           "desc": "Was Sie vor einem längeren Auslandsaufenthalt oder Umzug bei DRV, KVdR und Finanzamt prüfen müssen.",
-          "url": "https://maicolortizh.gumroad.com/l/rente-im-ausland-checkliste-gratis"
+          "url": "https://maicolortizh.gumroad.com/l/rente-im-ausland-checkliste-gratis?wanted=true"
         },
         {
           "ep": 3,
           "code": "V03",
           "title": "KVdR 9/10-Regel & +36 Monate Kinder-Bonus Check (0 €)",
           "desc": "So zählen 3 Jahre pauschal je Kind (§ 5 Abs. 2 SGB V) für die günstige Pflichtversicherung der Rentner.",
-          "url": "https://maicolortizh.gumroad.com/l/kvdr-9-10-regel-check-gratis"
+          "url": "https://maicolortizh.gumroad.com/l/kvdr-9-10-regel-check-gratis?wanted=true"
         },
         {
           "ep": 4,
           "code": "V04",
           "title": "Mütterrente, Kindererziehung & Pflege-Punkte Check (0 €)",
           "desc": "Prüfen Sie fehlende Entgeltpunkte im Versicherungsverlauf (V0100 / V0800) und § 44 SGB X Nachzahlung.",
-          "url": "https://maicolortizh.gumroad.com/l/muetterrente-minijob-check-gratis"
+          "url": "https://maicolortizh.gumroad.com/l/muetterrente-minijob-check-gratis?wanted=true"
         },
         {
           "ep": 5,
           "code": "V05",
           "title": "Witwenrente Freibetrag 2026 (1.123,38 €) & Steuer-Check (0 €)",
           "desc": "Prüfen Sie den 14 %-Pauschalabzug (§ 18b SGB IV) und die Einkommensanrechnung nach § 97 SGB VI.",
-          "url": "https://maicolortizh.gumroad.com/l/witwenrente-steuer-check-gratis"
+          "url": "https://maicolortizh.gumroad.com/l/witwenrente-steuer-check-gratis?wanted=true"
         }
       ]
     }
@@ -979,6 +994,7 @@ const SENIOR_DATA = {
     ],
     "bridge": {
       "channelName": "Calcul Retraite",
+      "nationalTopBadge": "🇫🇷 France (CARSAT / Agirc-Arrco / CSG 2026)",
       "pageTitle": "Calcul Retraite — Diagnostic Gratuit en 60 Secondes & Simulateur 2026",
       "metaDescription": "Vérifiez en 60 secondes votre taux de CSG Retraite 2026, vos abattements de succession (152 500 € avant 70 ans), le plafond des frais bancaires (850 €) et votre pension CARSAT.",
       "heroBadge": "🇫🇷 Diagnostic Indépendant Retraite, CSG & Succession 2026 (Calcul Retraite)",
@@ -1006,9 +1022,23 @@ const SENIOR_DATA = {
       "step2Title": "Retraite Clair 2026 — Guide Grands Caractères (84 p.) + Simulateurs Excel & Web + 10 Lettres Prêtes à Imprimer (PDF A4)",
       "step2Subtitle": "Tout pour vérifier et faire valoir vos droits auprès de la CARSAT, de l'Agirc-Arrco, des Impôts et de votre banque avec des modèles clairs et chiffrés.",
       "paidPackPrice": "19 €",
-      "paidPackUrl": "https://maicolortizh.gumroad.com/l/retraite-clair-version-complete",
+      "paidPackUrl": "https://maicolortizh.gumroad.com/l/retraite-clair-version-complete?wanted=true",
       "paidPackBtnText": "📘 Obtenir le Pack Complet « Retraite Clair 2026 » (19 €) →",
       "paidPackGuarantee": "Accès immédiat · Guide pratique A4 en grands caractères ≥ 16,5 pt (PDF & DOCX) · Classeur Excel 5 onglets (.xlsx) + Simulateur Web · 10 modèles de courriers (CARSAT, Agirc-Arrco, Banque, Impôts)",
+      "paymentMethodsBadge": "💳 Moyens de paiement sécurisés : Carte Bancaire (CB / Visa / Mastercard) · PayPal · Apple Pay / Google Pay",
+      "amazonPrintOffer": {
+        "bookTitle": "Retraite Clair 2026",
+        "marketplace": "Amazon.fr",
+        "title": "📖 Vous préférez un livre papier entre les mains ? (Édition Grands Caractères ≥ 16 pt)",
+        "desc": "En plus du téléchargement numérique immédiat ci-dessus (avec simulateurs Excel & Web), le cahier pratique « Retraite Clair 2026 » est également disponible en livre broché Grands Caractères (16 pt) sur Amazon.fr :",
+        "btnText": "📦 Voir le livre papier « Retraite Clair 2026 » sur Amazon.fr →",
+        "url": "https://www.amazon.fr/s?k=Retraite+Clair+2026+Calcul+Retraite"
+      },
+      "seoReference": {
+        "sectionTitle": "📚 Barèmes Officiels, Seuils CSG & Simulateurs Retraite 2026 (France)",
+        "sectionIntro": "Synthèse des seuils légaux 2026 en France (barème RFR de la CSG Retraite, abattements de succession et assurance-vie avant/après 70 ans, plafond des frais bancaires de succession à 850 €) :",
+        "calculatorsTitle": "🧮 Simulateurs Gratuits en Ligne 2026 (France) :"
+      },
       "comparisonHeaders": [
         "Ce qui est inclus",
         "Fiche Gratuite (0 €)",
@@ -1056,35 +1086,35 @@ const SENIOR_DATA = {
           "code": "V01",
           "title": "Seuils CSG Retraite 2026 : Barème RFR & Lissage Légal (0 €)",
           "desc": "Vérifiez votre tranche (0 %, 3,8 %, 6,6 %, 8,3 %) selon votre RFR et vos parts fiscales.",
-          "url": "https://maicolortizh.gumroad.com/l/seuils-csg-retraite-gratuit"
+          "url": "https://maicolortizh.gumroad.com/l/seuils-csg-retraite-gratuit?wanted=true"
         },
         {
           "ep": 2,
           "code": "V02",
           "title": "Après un décès : Démarches, Frais bancaires (max 850 €) & Obsèques (0 €)",
           "desc": "Comment débloquer jusqu'à 5 910 € pour les obsèques et appliquer le plafond légal de 1 % / 850 €.",
-          "url": "https://maicolortizh.gumroad.com/l/apres-un-deces-avant-de-vendre-gratuit"
+          "url": "https://maicolortizh.gumroad.com/l/apres-un-deces-avant-de-vendre-gratuit?wanted=true"
         },
         {
           "ep": 3,
           "code": "V03",
           "title": "Épargne & Assurance-Vie : Avant 70 ans (152 500 €) vs Après 70 ans (30 500 €) — Guide 0 €",
           "desc": "Protégez votre épargne et comparez les abattements de 100 000 € par enfant, 152 500 € (Art. 990 I) et 30 500 € (Art. 757 B).",
-          "url": "https://maicolortizh.gumroad.com/l/epargne-apres-60-ans-gratuit"
+          "url": "https://maicolortizh.gumroad.com/l/epargne-apres-60-ans-gratuit?wanted=true"
         },
         {
           "ep": 4,
           "code": "V04",
           "title": "Protéger le logement familial & les droits du conjoint survivant (0 €)",
           "desc": "Droit viager au logement, usufruit, pension de réversion (54 % CNAV / 60 % Agirc-Arrco).",
-          "url": "https://maicolortizh.gumroad.com/l/logement-apres-un-deces-gratuit"
+          "url": "https://maicolortizh.gumroad.com/l/logement-apres-un-deces-gratuit?wanted=true"
         },
         {
           "ep": 5,
           "code": "V05",
           "title": "Vérifier son Relevé de Carrière (RIS) : Trimestres enfants & oublis (0 €)",
           "desc": "Repérez les trimestres et points Agirc-Arrco oubliés avant ou après la liquidation de votre retraite.",
-          "url": "https://maicolortizh.gumroad.com/l/verifier-sa-retraite-gratuit"
+          "url": "https://maicolortizh.gumroad.com/l/verifier-sa-retraite-gratuit?wanted=true"
         }
       ]
     }
@@ -1486,6 +1516,7 @@ const SENIOR_DATA = {
     ],
     "bridge": {
       "channelName": "Liczby Emerytury",
+      "nationalTopBadge": "🇵🇱 Polska (ZUS / Renta Wdowia 2026)",
       "pageTitle": "Liczby Emerytury — Bezpłatna Diagnoza w 60 Sekund i Kalkulator ZUS 2026",
       "metaDescription": "Sprawdź w 60 sekund swój wariant Renty Wdowiej (ERWD), progi Świadczenia Wspierającego WZON (70–100 pkt), ochronę konta (Art. 56) i przeliczenie emerytury ZUS.",
       "heroBadge": "🇵🇱 Niezależny Test Emerytalny i Kalkulator 2026 (Liczby Emerytury)",
@@ -1513,9 +1544,23 @@ const SENIOR_DATA = {
       "step2Title": "Emerytura Jasno 2026 — Pełny Przewodnik Dużą Czcionką + Kalkulator Excel i Web + 10 Gotowych Pism do ZUS i Banku (PDF A4)",
       "step2Subtitle": "Kompletny zestaw dla seniora i rodziny: przewodnik krok po kroku, arkusz kalkulacyjny oraz gotowe wzory wniosków i odwołań (ERWD, ERPO, WZON, Art. 56 i Art. 55a Prawa bankowego, SD-Z2) gotowe do wydruku i podpisu.",
       "paidPackPrice": "49 zł",
-      "paidPackUrl": "https://maicolortizh.gumroad.com/l/emerytura-jasno-pelna-wersja",
+      "paidPackUrl": "https://maicolortizh.gumroad.com/l/emerytura-jasno-pelna-wersja?wanted=true",
       "paidPackBtnText": "📘 Odbierz Pełny Pakiet „Emerytura Jasno 2026” (49 zł) →",
       "paidPackGuarantee": "Natychmiastowe pobranie · Przewodnik dużą czcionką ≥ 16,5 pt (PDF A4 i DOCX) · Kalkulator 5-arkuszowy Excel (.xlsx) + Aplikacja Web · 10 gotowych wzorów pism do ZUS, WZON, US i Banku",
+      "paymentMethodsBadge": "💳 Akceptowane metody płatności: BLIK · Przelewy24 · Karta płatnicza (Visa / Mastercard) · PayPal · Apple Pay / Google Pay",
+      "amazonPrintOffer": {
+        "bookTitle": "Emerytura Jasno 2026",
+        "marketplace": "Amazon.pl",
+        "title": "📖 Wolisz tradycyjną książkę papierową w ręku? (Wydanie Dużą Czcionką ≥ 16 pt)",
+        "desc": "Oprócz pakietu cyfrowego do natychmiastowego pobrania powyżej (z kalkulatorem Excel i Web), poradnik „Emerytura Jasno 2026” jest dostępny także jako drukowana książka papierowa w dużej czcionce (16 pt) na Amazon.pl:",
+        "btnText": "📦 Zobacz wydanie drukowane „Emerytura Jasno 2026” na Amazon.pl →",
+        "url": "https://www.amazon.pl/s?k=Emerytura+Jasno+2026+Liczby+Emerytury"
+      },
+      "seoReference": {
+        "sectionTitle": "📚 Ustawowe Kwoty, Limity ZUS i Kalkulatory Emerytalne 2026 w Pigułce (Polska)",
+        "sectionIntro": "Podsumowanie kluczowych wskaźników i przepisów na 2026 rok (Renta Wdowia ERWD limit 5 636,73 zł, Świadczenie Wspierające WZON 70–100 pkt, Art. 56 Prawa bankowego i przeliczenie emerytury ERPO):",
+        "calculatorsTitle": "🧮 Dostępne Kalkulatory Online 2026 (Polska):"
+      },
       "comparisonHeaders": [
         "Co dokładnie otrzymujesz",
         "Pakiet Bezpłatny (0 zł)",
@@ -1563,35 +1608,35 @@ const SENIOR_DATA = {
           "code": "V01",
           "title": "Świadczenie Wspierające 2026: Progi 70–100 pkt WZON i Wniosek (0 zł)",
           "desc": "Sprawdź 6 progów punktowych WZON (od 792 zł do 4 353 zł/mies. bez podatku PIT) i przygotuj dokumenty.",
-          "url": "https://maicolortizh.gumroad.com/l/swiadczenie-wspierajace-bezplatne"
+          "url": "https://maicolortizh.gumroad.com/l/swiadczenie-wspierajace-bezplatne?wanted=true"
         },
         {
           "ep": 2,
           "code": "V02",
           "title": "Konto w banku po śmierci: Dyspozycja Art. 56 i Koszty pogrzebu (0 zł)",
           "desc": "Jak zabezpieczyć do ~175 000–185 000 zł (20x przec. wynagr. GUS) bez sądu spadkowego i zwrot za pogrzeb (Art. 55a).",
-          "url": "https://maicolortizh.gumroad.com/l/konto-po-smierci-bezplatne"
+          "url": "https://maicolortizh.gumroad.com/l/konto-po-smierci-bezplatne?wanted=true"
         },
         {
           "ep": 3,
           "code": "V03",
           "title": "Kiedy złożyć wniosek o emeryturę w ZUS: Lista kontrolna (0 zł)",
           "desc": "Najlepsze miesiące na złożenie wniosku w ZUS, waloryzacja składek i tablice dalszego trwania życia GUS.",
-          "url": "https://maicolortizh.gumroad.com/l/emerytura-w-czerwcu-bezplatne"
+          "url": "https://maicolortizh.gumroad.com/l/emerytura-w-czerwcu-bezplatne?wanted=true"
         },
         {
           "ep": 4,
           "code": "V04",
           "title": "Pieniądze z ZUS dla rodziny i Renta Wdowia ERWD (0 zł)",
           "desc": "Porównanie wariantów 100% + 15%/25% (limit 5 636,73 zł brutto), zasiłek pogrzebowy 7 000 zł i dziedziczenie subkonta.",
-          "url": "https://maicolortizh.gumroad.com/l/pieniadze-z-zus-dla-rodziny-bezplatne"
+          "url": "https://maicolortizh.gumroad.com/l/pieniadze-z-zus-dla-rodziny-bezplatne?wanted=true"
         },
         {
           "ep": 5,
           "code": "V05",
           "title": "Sprawdź przeliczenie emerytury i kapitału początkowego ERPO (0 zł)",
           "desc": "Jak odzyskać wyższą emeryturę dzięki dokumentom sprzed 1999 r., studiom i urlopowi wychowawczemu.",
-          "url": "https://maicolortizh.gumroad.com/l/przeliczenie-emerytury-bezplatne"
+          "url": "https://maicolortizh.gumroad.com/l/przeliczenie-emerytury-bezplatne?wanted=true"
         }
       ]
     }
@@ -2020,6 +2065,7 @@ const SENIOR_DATA = {
     ],
     "bridge": {
       "channelName": "Retirement Figures",
+      "nationalTopBadge": "🇺🇸 United States (SSA / Medicare & IRS 2026)",
       "pageTitle": "Retirement Figures — Free 60-Second Retirement, Social Security & Medicare Check 2026",
       "metaDescription": "Check your 2026 Social Security Provisional Income tax thresholds, claiming age break-even (62 vs 67 vs 70), Roth conversion window, and Medicare IRMAA appeal in 60 seconds.",
       "heroBadge": "🇺🇸 Independent 60-Second Retirement & Tax Check 2026 (Retirement Figures)",
@@ -2047,9 +2093,23 @@ const SENIOR_DATA = {
       "step2Title": "Retirement One Step at a Time (2026 Edition) — Complete Large-Print Guide (86 p.) + Excel & Web Calculators + 12 Action Letters",
       "step2Subtitle": "Everything you need to review Social Security Provisional Income taxes, prepare a Medicare IRMAA appeal (Form SSA-44), plan tax-free QCDs, and protect hospital coverage.",
       "paidPackPrice": "$19",
-      "paidPackUrl": "https://maicolortizh.gumroad.com/l/retirement-one-step-at-a-time",
+      "paidPackUrl": "https://maicolortizh.gumroad.com/l/retirement-one-step-at-a-time?wanted=true",
       "paidPackBtnText": "📘 Get the Complete 2026 Pack 'Retirement One Step at a Time' ($19) →",
       "paidPackGuarantee": "Instant Download · Large-Print Step-by-Step Guide (≥ 16.5 pt PDF & DOCX) · 5-Tab Excel Calculator (.xlsx) + Web App · 12 Ready-to-Print Action Letters (SSA-44, QCD, SSA-521, SSA-7008, Hospital MOON, IRS Form 5329)",
+      "paymentMethodsBadge": "💳 Secure Payment Methods: Visa / Mastercard / Amex · PayPal · Apple Pay · Google Pay",
+      "amazonPrintOffer": {
+        "bookTitle": "Retirement Clarity 2026",
+        "marketplace": "Amazon.com",
+        "title": "📖 Prefer a Physical Printed Book in Your Hands? (16pt Large-Print Paperback)",
+        "desc": "In addition to the instant digital download above (which includes the interactive Excel & Web calculators), the 16pt Large-Print Paperback Workbook \"Retirement Clarity 2026\" is also available on Amazon.com:",
+        "btnText": "📦 View the Large-Print Paperback \"Retirement Clarity 2026\" on Amazon.com →",
+        "url": "https://www.amazon.com/s?k=Retirement+Clarity+2026+Retirement+Numbers+Notebook"
+      },
+      "seoReference": {
+        "sectionTitle": "📚 2026 U.S. Retirement, Social Security & Medicare Statutory Reference",
+        "sectionIntro": "Summary of key 2026 IRS, Social Security Administration (SSA), and Medicare thresholds (Provisional Income tax brackets, Age 62 vs. 67 vs. 70 break-even, Age 73 RMDs, and Form SSA-44 IRMAA appeals):",
+        "calculatorsTitle": "🧮 Free Interactive 2026 Retirement Calculators (United States):"
+      },
       "comparisonHeaders": [
         "What You Get",
         "Free Check ($0)",
@@ -2097,35 +2157,35 @@ const SENIOR_DATA = {
           "code": "V01",
           "title": "Social Security Provisional Income & Tax Torpedo Check ($0)",
           "desc": "Check the $25,000/$34,000 (Single) and $32,000/$44,000 (Married) IRS thresholds and how to shield benefits.",
-          "url": "https://maicolortizh.gumroad.com/l/social-security-tax-checklist-free"
+          "url": "https://maicolortizh.gumroad.com/l/social-security-tax-checklist-free?wanted=true"
         },
         {
           "ep": 2,
           "code": "V02",
           "title": "Compare Social Security Claiming Ages: 62 vs. 67 vs. 70 ($0)",
           "desc": "See the exact break-even age (78.7 and 82.5 years) and how survivor benefits protect your spouse.",
-          "url": "https://maicolortizh.gumroad.com/l/social-security-claiming-ages-free"
+          "url": "https://maicolortizh.gumroad.com/l/social-security-claiming-ages-free?wanted=true"
         },
         {
           "ep": 3,
           "code": "V03",
           "title": "Before a Roth Conversion: RMD & Medicare IRMAA Check ($0)",
           "desc": "Calculate your safe Roth conversion headroom below the $106k / $212k Medicare IRMAA surcharge cliff.",
-          "url": "https://maicolortizh.gumroad.com/l/roth-conversion-checklist-free"
+          "url": "https://maicolortizh.gumroad.com/l/roth-conversion-checklist-free?wanted=true"
         },
         {
           "ep": 4,
           "code": "V04",
           "title": "Before a Hospital Bill: Inpatient vs. Observation Status ($0)",
           "desc": "How to protect Medicare Part A Skilled Nursing coverage under the 3-Midnight Rule (MOON Notice).",
-          "url": "https://maicolortizh.gumroad.com/l/medicare-hospital-checklist-free"
+          "url": "https://maicolortizh.gumroad.com/l/medicare-hospital-checklist-free?wanted=true"
         },
         {
           "ep": 5,
           "code": "V05",
           "title": "Before You Sign an Annuity: Surrender Charges & Fees Check ($0)",
           "desc": "The essential questions to ask in writing before locking retirement savings into a complex annuity.",
-          "url": "https://maicolortizh.gumroad.com/l/annuity-costs-checklist-free"
+          "url": "https://maicolortizh.gumroad.com/l/annuity-costs-checklist-free?wanted=true"
         }
       ]
     }
@@ -2541,6 +2601,7 @@ const SENIOR_DATA = {
     ],
     "bridge": {
       "channelName": "Pensioen & Erfbelasting Helder",
+      "nationalTopBadge": "🇳🇱 Nederland (SVB / AOW & Erfbelasting 2026)",
       "pageTitle": "Pensioen, AOW & Erfbelasting 2026 — Gratis 60-Seconden Check & Rekenhulp",
       "metaDescription": "Bereken in 60 seconden uw erfbelasting vrijstellingen 2026 (kind € 26.230, schenking € 6.908), uw netto AOW + pensioen (schijfgrens € 40.857) en download uw gratis checklist.",
       "heroBadge": "🇳🇱 Onafhankelijke 60-Seconden Check & Rekenhulp 2026 (Nederland)",
@@ -2568,9 +2629,23 @@ const SENIOR_DATA = {
       "step2Title": "Pensioen, AOW & Erfbelasting Helder 2026 — Volledige Gids in Grote Letters (71 p.) + Excel & Web Rekenhulp + 10 Brieven (A4 PDF)",
       "step2Subtitle": "Het complete pakket voor senioren en hun familie: inclusief de volledige gids (71 pagina's), de rekenhulpen voor erfbelasting/schenking/AOW en 10 kant-en-klare brieven voor Belastingdienst, SVB, Notaris en Bank.",
       "paidPackPrice": "17 €",
-      "paidPackUrl": "https://maicolortizh.gumroad.com/l/geschiedenis-in-beeld-volledige-versie",
+      "paidPackUrl": "https://maicolortizh.gumroad.com/l/geschiedenis-in-beeld-volledige-versie?wanted=true",
       "paidPackBtnText": "📘 Volledig Pakket „Pensioen & Erfbelasting Helder 2026” Nu Openen (17 €) →",
       "paidPackGuarantee": "Direct te downloaden · Uitgebreide gids in grote letters ≥ 16,5 pt (71 p. PDF A4 & DOCX) · Excel Rekenhulp (.xlsx) + Web App · 10 kant-en-klare brieven (Schenking met uitsluitingsclausule, Kleinkind-legaat, Loonheffingskorting SVB, Voorlopige Aanslag)",
+      "paymentMethodsBadge": "💳 Veilige betaalmethoden: iDEAL | Wero · PayPal · Bancontact · Creditcard (Visa / Mastercard)",
+      "amazonPrintOffer": {
+        "bookTitle": "Pensioen Helder 2026",
+        "marketplace": "Amazon.nl",
+        "title": "📖 Liever een fysiek gedrukt werkboek op papier? (Grote Letters ≥ 16 pt)",
+        "desc": "Naast het directe digitale pakket hierboven (inclusief Excel- & Web-rekenhulpen) is het werkboek „Pensioen Helder 2026” ook verkrijgbaar als gedrukt paperback-boek in grote letters (16 pt) via Amazon.nl:",
+        "btnText": "📦 Bekijk het gedrukte werkboek „Pensioen Helder 2026” op Amazon.nl →",
+        "url": "https://www.amazon.nl/s?k=Pensioen+Helder+2026"
+      },
+      "seoReference": {
+        "sectionTitle": "📚 Wettelijke Vrijstellingen, AOW-Schijven & Rekenhulpen 2026 (Nederland)",
+        "sectionIntro": "Overzicht van de belangrijkste Nederlandse bedragen en vrijstellingen in 2026 (erfbelasting vrijstelling kind & kleinkind € 26.230, schenkvrijstelling € 6.908, AOW schijfgrens € 40.857 en 8-maanden belastingrente):",
+        "calculatorsTitle": "🧮 Gratis Interactieve Rekenhulpen 2026 (Nederland):"
+      },
       "comparisonHeaders": [
         "Wat u ontvangt",
         "Gratis Checklist (€ 0)",
@@ -2618,35 +2693,35 @@ const SENIOR_DATA = {
           "code": "V01",
           "title": "Erfbelasting & Vrijstellingen 2026: Kind (€ 26.230) & Kleinkind Check (€ 0)",
           "desc": "Stapsgewijze checklist (4 p. grote letters) over de vrijstellingen voor partner (€ 828.035), kind en kleinkind (€ 26.230).",
-          "url": "https://maicolortizh.gumroad.com/l/familieverhaal-amsterdam-gratis"
+          "url": "https://maicolortizh.gumroad.com/l/familieverhaal-amsterdam-gratis?wanted=true"
         },
         {
           "ep": 2,
           "code": "V02",
           "title": "Netto AOW & Pensioen 2026: Voorkom Dubbele Loonheffingskorting (€ 0)",
           "desc": "Controleer de schijfgrens van € 40.857 (19,07%), de Zvw-bijdrage (5,26%) en zet de loonheffingskorting op slechts 1 uitkering.",
-          "url": "https://maicolortizh.gumroad.com/l/familieverhaal-amsterdam-gratis"
+          "url": "https://maicolortizh.gumroad.com/l/familieverhaal-amsterdam-gratis?wanted=true"
         },
         {
           "ep": 3,
           "code": "V03",
           "title": "Belastingvrij Schenken 2026 (€ 6.908/jaar) & Uitsluitingsclausule (€ 0)",
           "desc": "Hoe u jaarlijks € 6.908 per kind en € 2.769 per kleinkind belastingvrij schenkt met schriftelijke uitsluitingsclausule.",
-          "url": "https://maicolortizh.gumroad.com/l/familieverhaal-amsterdam-gratis"
+          "url": "https://maicolortizh.gumroad.com/l/familieverhaal-amsterdam-gratis?wanted=true"
         },
         {
           "ep": 4,
           "code": "V04",
           "title": "8-Maanden Termijn & Voorlopige Aanslag: Bespaar ~7% Belastingrente (€ 0)",
           "desc": "Hoe u binnen 8 maanden na overlijden een voorlopige aanslag aanvraagt en hoge belastingrente voorkomt.",
-          "url": "https://maicolortizh.gumroad.com/l/familieverhaal-amsterdam-gratis"
+          "url": "https://maicolortizh.gumroad.com/l/familieverhaal-amsterdam-gratis?wanted=true"
         },
         {
           "ep": 5,
           "code": "V05",
           "title": "Bankrekening na Overlijden & Nabestaanden-Checklist 2026 (€ 0)",
           "desc": "Overzicht voor de bank, uitvaartkosten, Verklaring van Erfrecht en alle eerste stappen voor nabestaanden.",
-          "url": "https://maicolortizh.gumroad.com/l/familieverhaal-amsterdam-gratis"
+          "url": "https://maicolortizh.gumroad.com/l/familieverhaal-amsterdam-gratis?wanted=true"
         }
       ]
     }
@@ -2655,7 +2730,7 @@ const SENIOR_DATA = {
 
 /* ==========================================================================
    MOTOR PUENTE PÚBLICO DE CONVERSIÓN SENIOR 2026 (100% CLIENT-SIDE · GDPR)
-   Soporta DE, FR, PL, EN, NL · ?lang=de|fr|pl|en|nl&v=1..5 · navigator.language
+   Soporta DE, FR, PL, EN, NL · ?lang=de|fr|pl|en|nl&v=1..5 · Timezone + navigator.language
    ========================================================================== */
 (function() {
   "use strict";
@@ -2677,6 +2752,26 @@ const SENIOR_DATA = {
       .replace(/</g, "&lt;")
       .replace(/>/g, "&gt;")
       .replace(/"/g, "&quot;");
+  }
+
+  function toDirectCheckoutUrl(rawUrl) {
+    const s = String(rawUrl || "").trim();
+    if (!s) return "";
+    if (s.indexOf("wanted=true") !== -1) return s;
+    return s + (s.indexOf("?") === -1 ? "?wanted=true" : "&wanted=true");
+  }
+
+  function isCamouflageMode() {
+    try {
+      if (window.FORCED_LANG && SENIOR_DATA[window.FORCED_LANG]) {
+        return true;
+      }
+      const params = new URLSearchParams(window.location.search);
+      if (params.get("local") === "1") {
+        return true;
+      }
+    } catch (e) {}
+    return false;
   }
 
   function formatMoney(num, lang, decimals) {
@@ -2710,6 +2805,19 @@ const SENIOR_DATA = {
     return null;
   }
 
+  function detectLanguageFromTimezone() {
+    try {
+      const tz = String((Intl.DateTimeFormat().resolvedOptions() || {}).timeZone || "").trim();
+      if (!tz) return null;
+      if (tz === "Europe/Warsaw") return "pl";
+      if (tz === "Europe/Berlin" || tz === "Europe/Vienna" || tz === "Europe/Zurich") return "de";
+      if (tz === "Europe/Paris" || tz === "Europe/Brussels" || tz === "Europe/Luxembourg") return "fr";
+      if (tz === "Europe/Amsterdam") return "nl";
+      if (tz.indexOf("America/") === 0) return "en";
+    } catch (e) {}
+    return null;
+  }
+
   function detectInitialLanguage() {
     try {
       const params = new URLSearchParams(window.location.search);
@@ -2724,12 +2832,19 @@ const SENIOR_DATA = {
       if (hashLang && SENIOR_DATA[hashLang]) {
         return hashLang;
       }
+      const tzLang = detectLanguageFromTimezone();
+      if (tzLang && tzLang !== "en" && SENIOR_DATA[tzLang]) {
+        return tzLang;
+      }
       const navLangs = navigator.languages || [navigator.language || ""];
       for (let i = 0; i < navLangs.length; i++) {
         const shortCode = String(navLangs[i] || "").slice(0, 2).toLowerCase();
         if (SENIOR_DATA[shortCode]) {
           return shortCode;
         }
+      }
+      if (tzLang && SENIOR_DATA[tzLang]) {
+        return tzLang;
       }
     } catch (e) {}
     return window.FORCED_LANG || "de";
@@ -3323,19 +3438,31 @@ const SENIOR_DATA = {
     const data = SENIOR_DATA[STATE.lang];
     const b = data.bridge;
     const langs = ["de", "fr", "pl", "en", "nl"];
-    langBar.innerHTML = langs.map(function(code) {
-      const d = SENIOR_DATA[code];
-      const activeCls = code === STATE.lang ? "lang-btn active" : "lang-btn";
-      return '<button type="button" class="' + activeCls + '" data-lang="' + code + '" aria-pressed="' + (code === STATE.lang) + '">' +
-               escapeHtml(d.countryLabel) +
-             '</button>';
-    }).join("");
+    let isNationalCamouflage = Boolean(window.FORCED_LANG);
+    try {
+      const params = new URLSearchParams(window.location.search);
+      if (params.get("local") === "1") isNationalCamouflage = true;
+      if (params.get("all_langs") === "1") isNationalCamouflage = false;
+    } catch (e) {}
 
-    langBar.querySelectorAll(".lang-btn").forEach(function(btn) {
-      btn.addEventListener("click", function() {
-        setLanguage(btn.getAttribute("data-lang"));
+    if (isNationalCamouflage) {
+      const natLabel = b.nationalTopBadge || data.countryLabel;
+      langBar.innerHTML = '<span class="lang-btn active" style="cursor:default;">' + escapeHtml(natLabel) + '</span>';
+    } else {
+      langBar.innerHTML = langs.map(function(code) {
+        const d = SENIOR_DATA[code];
+        const activeCls = code === STATE.lang ? "lang-btn active" : "lang-btn";
+        return '<button type="button" class="' + activeCls + '" data-lang="' + code + '" aria-pressed="' + (code === STATE.lang) + '">' +
+                 escapeHtml(d.countryLabel) +
+               '</button>';
+      }).join("");
+
+      langBar.querySelectorAll(".lang-btn").forEach(function(btn) {
+        btn.addEventListener("click", function() {
+          setLanguage(btn.getAttribute("data-lang"));
+        });
       });
-    });
+    }
 
     document.getElementById("font-size-label").textContent = data.nav.fontSizeLabel;
     document.querySelectorAll(".font-btn").forEach(function(fBtn) {
@@ -3387,7 +3514,7 @@ const SENIOR_DATA = {
               '<div style="font-size:18px;font-weight:800;color:#065F46;margin-bottom:8px;">' +
                 escapeHtml(b.videoBannerPrefix || "🎁") + ' [' + escapeHtml(epGift.code) + ']' +
               '</div>' +
-              '<a href="' + escapeHtml(epGift.url) + '" target="_blank" rel="noopener" class="btn-green-giant" style="min-height:58px;font-size:19px;">' +
+              '<a href="' + escapeHtml(toDirectCheckoutUrl(epGift.url)) + '" target="_blank" rel="noopener" class="btn-green-giant" style="min-height:58px;font-size:19px;">' +
                 '<span>' + escapeHtml(b.step1PrimaryBtnPrefix + epGift.title) + '</span>' +
                 '<span>➔</span>' +
               '</a>' +
@@ -3669,7 +3796,7 @@ const SENIOR_DATA = {
     const allGiftsHtml = b.freeGifts.map(function(g) {
       const isRec = primaryGift && g.ep === primaryGift.ep;
       const cls = isRec ? "gift-episode-btn recommended" : "gift-episode-btn";
-      return '<a href="' + escapeHtml(g.url) + '" target="_blank" rel="noopener" class="' + cls + '">' +
+      return '<a href="' + escapeHtml(toDirectCheckoutUrl(g.url)) + '" target="_blank" rel="noopener" class="' + cls + '">' +
                '<div>' +
                  '<div class="gift-ep-title">🎁 [' + escapeHtml(g.code) + '] ' + escapeHtml(g.title) + '</div>' +
                  '<div class="gift-ep-desc">' + escapeHtml(g.desc) + '</div>' +
@@ -3684,7 +3811,7 @@ const SENIOR_DATA = {
         '<h2 style="margin:0 0 8px 0;font-size:26px;font-weight:900;color:#064E3B;">' + escapeHtml(b.step1Title) + '</h2>' +
         '<p style="margin:0 0 18px 0;font-size:19px;color:#1E293B;font-weight:500;">' + escapeHtml(b.step1Subtitle) + '</p>' +
         (primaryGift ? (
-          '<a href="' + escapeHtml(primaryGift.url) + '" target="_blank" rel="noopener" class="btn-green-giant" id="primary-free-gift-btn">' +
+          '<a href="' + escapeHtml(toDirectCheckoutUrl(primaryGift.url)) + '" target="_blank" rel="noopener" class="btn-green-giant" id="primary-free-gift-btn">' +
             '<span>' + escapeHtml(b.step1PrimaryBtnPrefix + primaryGift.title) + '</span>' +
             '<span>➔</span>' +
           '</a>'
@@ -3707,6 +3834,23 @@ const SENIOR_DATA = {
              '</tr>';
     }).join("");
 
+    const payBadgeHtml = b.paymentMethodsBadge ? (
+      '<div class="payment-methods-badge-bar" id="payment-methods-trust-bar">' +
+        escapeHtml(b.paymentMethodsBadge) +
+      '</div>'
+    ) : '';
+
+    const amz = b.amazonPrintOffer;
+    const amzHtml = amz ? (
+      '<div class="dual-format-amazon-box" id="dual-format-amazon-box">' +
+        '<div class="dual-format-amazon-title">' + escapeHtml(amz.title) + '</div>' +
+        '<div class="dual-format-amazon-desc">' + escapeHtml(amz.desc) + '</div>' +
+        '<a href="' + escapeHtml(amz.url) + '" target="_blank" rel="noopener" class="btn-amazon-print" id="amazon-print-workbook-btn">' +
+          '<span>' + escapeHtml(amz.btnText) + '</span>' +
+        '</a>' +
+      '</div>'
+    ) : '';
+
     step2El.innerHTML = '' +
       '<div class="cta-step2-card">' +
         '<div class="cta-step2-badge">⭐ ' + escapeHtml(b.step2Badge) + '</div>' +
@@ -3724,13 +3868,44 @@ const SENIOR_DATA = {
             '<tbody>' + rowsHtml + '</tbody>' +
           '</table>' +
         '</div>' +
-        '<a href="' + escapeHtml(b.paidPackUrl) + '" target="_blank" rel="noopener" class="btn-gold-giant" id="paid-pack-checkout-btn">' +
+        '<a href="' + escapeHtml(toDirectCheckoutUrl(b.paidPackUrl)) + '" target="_blank" rel="noopener" class="btn-gold-giant" id="paid-pack-checkout-btn">' +
           '<span>' + escapeHtml(b.paidPackBtnText) + '</span>' +
         '</a>' +
+        payBadgeHtml +
         '<p style="margin:14px 0 0 0;font-size:18px;color:#E2E8F0;text-align:center;font-weight:600;">🔒 ' +
           escapeHtml(b.paidPackGuarantee) +
         '</p>' +
+        amzHtml +
       '</div>';
+  }
+
+  function renderSeoStatutoryReference() {
+    const seoEl = document.getElementById("seo-statutory-reference-2026");
+    if (!seoEl) return;
+    const data = SENIOR_DATA[STATE.lang];
+    const b = data.bridge;
+    const seoRef = b.seoReference || {};
+
+    const outcomesHtml = (data.quiz.outcomes || []).map(function(out) {
+      return '<div class="seo-statutory-item">' +
+               '<div style="font-size:19px;font-weight:800;color:#0F172A;margin-bottom:6px;">' + escapeHtml(out.title) + '</div>' +
+               '<div style="font-size:18px;color:#1E293B;margin-bottom:4px;"><strong>📌 2026:</strong> ' + escapeHtml(out.threshold2026) + '</div>' +
+               '<div style="font-size:18px;color:#065F46;font-weight:700;margin-bottom:4px;">💶 ' + escapeHtml(out.moneyAtStake) + '</div>' +
+               '<div style="font-size:18px;color:#334155;">⚖️ ' + escapeHtml(out.source) + '</div>' +
+             '</div>';
+    }).join("");
+
+    const calcsHtml = (data.calculators || []).map(function(c) {
+      return '<li style="margin-bottom:8px;font-size:18px;"><strong>' + escapeHtml(c.title) + ':</strong> ' +
+               escapeHtml(c.subtitle) + ' <em>(' + escapeHtml(c.legalRef) + ')</em></li>';
+    }).join("");
+
+    seoEl.innerHTML = '' +
+      '<h2 style="margin:0 0 8px 0;font-size:23px;font-weight:900;color:#0F172A;">' + escapeHtml(seoRef.sectionTitle || "") + '</h2>' +
+      '<p style="margin:0 0 14px 0;font-size:18px;color:#334155;">' + escapeHtml(seoRef.sectionIntro || "") + '</p>' +
+      '<div class="seo-statutory-grid">' + outcomesHtml + '</div>' +
+      '<h3 style="margin:20px 0 8px 0;font-size:20px;font-weight:800;color:#1E3A8A;">' + escapeHtml(seoRef.calculatorsTitle || "") + '</h3>' +
+      '<ul style="margin:0;padding-left:22px;color:#1E293B;">' + calcsHtml + '</ul>';
   }
 
   function renderLegalFooter() {
@@ -3741,32 +3916,49 @@ const SENIOR_DATA = {
     if (!footerEl) return;
 
     const giftsLinksHtml = (b.freeGifts || []).map(function(g) {
-      return ' · <a href="' + escapeHtml(g.url) + '" target="_blank" rel="noopener" style="color:#15803D;font-weight:700;">[' + escapeHtml(g.code) + '] ' + escapeHtml(g.title) + '</a>';
+      return ' · <a href="' + escapeHtml(toDirectCheckoutUrl(g.url)) + '" target="_blank" rel="noopener" style="color:#15803D;font-weight:700;">[' + escapeHtml(g.code) + '] ' + escapeHtml(g.title) + '</a>';
     }).join("");
+
+    const discreetLangLinks = ["de", "fr", "pl", "en", "nl"].map(function(code) {
+      const d = SENIOR_DATA[code];
+      const cls = code === STATE.lang ? "discreet-lang-link active" : "discreet-lang-link";
+      return '<button type="button" class="' + cls + '" data-footer-lang="' + code + '">' + escapeHtml(d.countryLabel) + '</button>';
+    }).join(" ");
 
     footerEl.innerHTML = '' +
       '<div style="margin-bottom:14px;padding-bottom:12px;border-bottom:2px solid #E2E8F0;">' +
         '<div style="font-weight:800;color:#0F172A;margin-bottom:4px;">' + escapeHtml(lf.disclaimerTitle || "") + '</div>' +
-        '<div style="font-size:17px;line-height:1.55;color:#334155;">' + escapeHtml(lf.disclaimerText || "") + '</div>' +
+        '<div style="font-size:18px;line-height:1.55;color:#334155;">' + escapeHtml(lf.disclaimerText || "") + '</div>' +
       '</div>' +
       '<div style="margin-bottom:14px;padding-bottom:12px;border-bottom:2px solid #E2E8F0;">' +
         '<div style="font-weight:800;color:#0F172A;margin-bottom:4px;">' + escapeHtml(lf.privacyTitle || "") + '</div>' +
-        '<div style="font-size:17px;line-height:1.55;color:#334155;">' + escapeHtml(lf.privacyText || "") + '</div>' +
+        '<div style="font-size:18px;line-height:1.55;color:#334155;">' + escapeHtml(lf.privacyText || "") + '</div>' +
       '</div>' +
       '<div style="margin-bottom:14px;padding-bottom:12px;border-bottom:2px solid #E2E8F0;">' +
         '<div style="font-weight:800;color:#0F172A;margin-bottom:4px;">' + escapeHtml(lf.impressumTitle || "") + '</div>' +
-        '<div style="font-size:17px;line-height:1.55;color:#334155;">' + escapeHtml(lf.impressumText || "") + '</div>' +
+        '<div style="font-size:18px;line-height:1.55;color:#334155;">' + escapeHtml(lf.impressumText || "") + '</div>' +
       '</div>' +
-      '<div style="font-size:17px;line-height:1.6;">' +
+      '<div style="font-size:18px;line-height:1.6;">' +
         '<strong>' + escapeHtml(data.flag + " " + b.channelName) + ':</strong> ' +
-        '<a href="' + escapeHtml(b.paidPackUrl) + '" target="_blank" rel="noopener" style="color:#1E3A8A;font-weight:800;">' + escapeHtml(b.paidPackPrice + " — " + b.step2Title) + '</a>' +
+        '<a href="' + escapeHtml(toDirectCheckoutUrl(b.paidPackUrl)) + '" target="_blank" rel="noopener" style="color:#1E3A8A;font-weight:800;">' + escapeHtml(b.paidPackPrice + " — " + b.step2Title) + '</a>' +
         giftsLinksHtml +
+      '</div>' +
+      '<div class="discreet-lang-switcher-row" id="footer-discreet-lang-switcher" aria-label="Language Switcher">' +
+        discreetLangLinks +
       '</div>';
+
+    footerEl.querySelectorAll("[data-footer-lang]").forEach(function(btn) {
+      btn.addEventListener("click", function() {
+        setLanguage(btn.getAttribute("data-footer-lang"));
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      });
+    });
   }
 
   function renderAll() {
     renderTopBar();
     renderQuizAndDiagnosis();
+    renderSeoStatutoryReference();
     renderLegalFooter();
   }
 
